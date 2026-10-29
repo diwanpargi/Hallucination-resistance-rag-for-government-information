@@ -1,0 +1,8 @@
+unstructured[pdf]
+pytesseract
+sentence-transformers
+qdrant-client
+google-genai
+pandas
+streamlit
+flask

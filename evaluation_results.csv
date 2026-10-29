@@ -1,0 +1,1209 @@
+﻿question,correct_answer,generated_answer,similarity,correct,best_chunk_sim,retrieval_match,best_chunk_source,best_chunk_page,problem,reason,should_refuse,did_refuse,faithful,retrieval_hit,top_score,latency_sec
+How do I apply for the Labour Welfare Scheme (Education) Scholarship on the NSP Portal?,"To apply, first, register on the National Scholarship Portal (NSP) through One-Time Registration (OTR). You will receive an OTR ID, which is necessary to log in and fill the application form. The Labour Welfare Scheme for Education covers wards of Beedi, Mine, and Cine workers, offering financial assistance based on their level of education.",Information not found in the provided documents.,0.0,False,0.0,False,,,retrieval,model_said_not_found,False,True,,False,0.712,41.15
+What are the eligibility criteria for the scholarship?," Either of the parents of the applicant must be a Beedi, Iron Ore, Manganese Ore, Chrome Ore Mines, Limestone, Dolomite Mines, or Cine worker with at least six months of service. This also includes Contract/Gharkhata (Home-Based) workers.  The total monthly income of the worker’s family must not exceed:  Beedi Workers: ₹10,000  Mine Workers:  Those performing manual, unskilled, highly skilled, and clerical work are eligible irrespective of their wages.  Supervisory and managerial employees are eligible if their wages do not exceed ₹10,000 per month.  Cine Workers: Monthly income not exceeding ₹8,000, or ₹1,00,000 if paid by way of a lump sum or instalments.  The applicant must have passed the last qualifying examination on the first attempt. Students promoted to the next class are also eligible.  Applicants must have taken regular admission in recognised institutions for general or technical education (e.g., medical, engineering, agriculture).  Scholars pursuing correspondence studies are not eligible.  Students must not receive any other scholarship or stipend.","C:\Users\dprag\OneDrive\Desktop\RAG1\government_rag_modular\data\New folder1\guidelines-Pre-matric-17-Oct-2022.pdf
+1. Applicant student should belong to the Scheduled Tribe, so specified in relation to the State/Union Territory to which he/she actually belongs (Domicile State).
+2. The student should be studying in a Government School or in a School recognized by Government or a Central/State Board of Secondary Education.
+3. The family income of student from all sources should not exceed Rs. 2.5 lakh per annum.
+4. The student should have a valid account in a Scheduled Bank, linked with Aadhaar and mobile number.
+5. The student should not be getting any other scholarship.
+6. Scholarship for studying in any class will be available for only one year. If a student has to repeat a class, he/she would not get scholarship for the same class twice. The student can renew scholarship for the next class when he/she is promoted.
+Source: guidelines-Pre-matric-17-Oct-2022.pdf, Page: 3
+
+C:\Users\dprag\OneDrive\Desktop\RAG1\government_rag_modular\data\New folder2\NEC_1234_G.pdf
+1. Scholarship shall be admissible to students who get admission in Diploma, Degree, Post-graduate or registration in M.Phil. / Ph.D courses of any institute recognised by the Government. The grant of scholarship for M.Phil and Ph.D would be after the registration of the students with the University. The Scholarship will not be available for internship or any practical training.
+2. Parent or guardian's annual income from all sources shall not exceed Rs 8.0 lakh, and the income certificate issued by the competent authority shall be furnished by the candidate.
+3. The student must fulfill the qualifying examination criteria with a minimum of 60% marks in aggregate in the previous qualifying examination based on the level of course (Diploma, Degree, Post Graduate).
+Source: NEC_1234_G.pdf, Page: 2, 8
+
+C:\Users\dprag\OneDrive\Desktop\RAG1\government_rag_modular\data\New folder7\NEC_1234_F.pdf
+1. The student's parent or guardian's annual income from all sources shall not exceed Rs 8.0 lakh.
+2. The scholarship is purely on merit basis, with the merit list prepared exclusively on the basis of marks obtained by the candidate in the qualifying exams and complying with the level-of-course-wise slots allotted to the states.
+3. Selection of students for M. Phil and Ph. D. will be done on the basis of topic of research/Synopsis which has relevance to the problems/issues related to NE Region.
+Source: NEC_1234_F.pdf, Page: 1
+
+C:\Users\dprag\OneDrive\Desktop\RAG1\government_rag_modular\data\New folder7\RevisedGuidelinesNOS07102022.pdf
+1. For Post-Doctoral Research: 55% marks or equivalent grade in relevant Master's Degree with awarded Ph.D., and maximum age of 38 years as on 1st July of selection year.
+2. For Ph.D: 55% marks or equivalent grade in relevant Master's Degree, and maximum age of 35 years as on 1st July of selection year.
+3. For Master's Degree: 55% marks or equivalent grade in relevant Master's Degree, and maximum age of 32 years as on 1st July of selection year.
+Source: RevisedGuidelinesNOS07102022.pdf, Page: 3",0.665,True,0.0,False,,,ok,,False,False,True,False,0.701,75.74
+Can I apply if I receive another scholarship?,"Yes, students receiving financial aid from other scholarships or stipends (one merit based scheme and welfare based schemes, subject to his/her eligibility for the scheme) are eligible to apply from AY 2026– , as per scheme eligibility criteria under the Labour Welfare Scheme (Education) on NSP.","Document: guidelines-Pre-matric-17-Oct-2022.pdf
+1. The student should not be getting any other scholarship.
+Source: guidelines-Pre-matric-17-Oct-2022.pdf, Page: 3",0.616,True,0.0,False,,,ok,,False,False,True,False,0.7,24.66
+What documents are required to apply for the scholarship?,You must upload the following:  Identity card of the worker (Form B Register number for Mine workers)  Income certificate issued by the relevant revenue authority,"DOCUMENT: NEC_1234_G.pdf
+1. The applicant must be in possession of the required documents at the time of application and may be asked to upload a scanned copy of these documents.
+2. The candidate must furnish an income certificate issued by the competent authority.
+Source: NEC_1234_G.pdf, Page: 2
+
+DOCUMENT: DEPDGuidelines_1.pdf
+1. All requisite documents like photograph, proof of age, disability certificate, income certificate of the parent, tuition fees receipt, and last academic qualification certificate duly filled in the prescribed format are required to be uploaded in the on-line system.
+Source: DEPDGuidelines_1.pdf, Page: 10
+
+DOCUMENT: MORB_GL.pdf
+1. Following documents in the respective category are mandatorily required to be submitted/ uploaded by the applicant for applying under PMSS.
+Source: MORB_GL.pdf, Page: 4
+
+DOCUMENT: tribalfellowshipguideline.pdf
+1. ST Certificate or PVTG Certificate (for fresh candidates, signed and stamped by competent authority).
+2. Income Certificate (for fresh candidates, issued for the financial year of the preceding year by a designated authority of the respective state/UT).
+3. Fee Receipt (for both fresh and renewal candidates).
+4. Scanned copy of the bank passbook (for both fresh and renewal candidates).
+5. Mark sheet or Certificate of qualifying examination (for both fresh and renewal candidates).
+Source: tribalfellowshipguideline.pdf, Page: 6",0.656,True,0.0,False,,,ok,,False,False,True,False,0.705,55.45
+How do I update my demographic details in the NSP application?,"If you need to change your details, you must first update your Aadhaar information. These updates will reflect in your OTR profile via eKYC and can be applied to your NSP application.",Information not found in the provided documents.,0.0,False,0.0,False,,,retrieval,model_said_not_found,False,True,,False,0.639,8.46
+How can I change my domicile state in the application?,"You cannot change your domicile state after submitting the application. If required, you must withdraw the application entirely and reapply. However, withdrawal is not allowed if the application has been approved by the Nodal Officer or if the scholarship payment has already been released.","Instruction-manual-NOS-202324.pdf:
+Once the registration process is completed, the basic information cannot be changed, including your name, date of birth, email ID, mobile number, domicile State, and district.
+Source: Instruction-manual-NOS-202324.pdf, Page: 5",0.613,True,0.0,False,,,ok,,False,False,True,False,0.641,33.81
+What financial assistance is provided under this scheme?,"The financial assistance under the Labour Welfare Scheme (Education) is provided according to the student’s class or level of education, as follows: Class/Category Scholarship Amount per Annum Class I to IV (for books/dress) ₹1,000 Class V to VIII ₹1,500 Class IX ₹2,000 Class X ₹2,000 Class XI to XII ₹3,000 ITI ₹6,000 Polytechnic ₹6,000 Degree Courses (including B.Sc. Agriculture) ₹6,000 Professional Courses ₹25,000 Note: Students promoted to the next class are eligible to apply for the above scholarships. The amounts are directly credited to the student’s bank account via Direct Benefit Transfer (DBT).",Information not found in the provided documents.,0.0,False,0.0,False,,,retrieval,model_said_not_found,False,True,,False,0.619,24.79
+How do I withdraw my application?,"You can withdraw your application any time during the process, provided it hasn’t been approved or disbursed. To withdraw, log into NSP, go to 'My Applications,' and select the 'Withdraw Application' option.","C:\Users\dprag\OneDrive\Desktop\RAG1\government_rag_modular\data\New folder7\NSP_ORApplicationUsermanul_V2.2.pdf
+1. Navigate to the My Applications section.
+2. Select the application that you want to withdraw by clicking on Proceed button.
+3. From the Menu, select the Withdraw Application option.
+4. Select the appropriate Withdrawal Remark from dropdown list.
+5. Click on the Withdraw button.
+6. An OTP will be sent to the registered mobile number.
+7. Enter the OTP and confirm the action.
+Upon successful OTP verification, the application will be withdrawn successfully.
+Source: NSP_ORApplicationUsermanul_V2.2.pdf, Page: 2
+
+C:\Users\dprag\OneDrive\Desktop\RAG1\government_rag_modular\data\New folder8h\PMSS_Guidelines_1197_3001-2023-24.pdf
+Applicants can withdraw their application any time but not later than closure of Second Level (L2) of verification i.e. Force Nodal Officer level. A list of standard reasons will be provided as a drop-down menu to record the reason for withdrawal.
+Source: PMSS_Guidelines_1197_3001-2023-24.pdf, Page: 9",0.755,True,0.0,False,,,ok,,False,False,True,False,0.716,54.57
+Can I reapply for the scholarship after withdrawing my application?,"Yes, you can reapply by using the ‘Apply Fresh’ option after withdrawing your previous application. Ensure you select the correct scholarship scheme before proceeding.","C:\Users\dprag\OneDrive\Desktop\RAG1\government_rag_modular\data\New folder7\NSP_ORApplicationUsermanul_V2.2.pdf
+1. Fresh Application cannot be revoked once withdrawn.
+2. You can revoke your Renewal application again after withdrawing by going to the My Applications page, clicking on the Proceed button, and selecting the Revoke Application form from the menu.
+3. You cannot revoke your scholarship application if you fail the following condition: you already have an active merit based scholarship application and want to revoke another merit based scholarship application.
+Source: NSP_ORApplicationUsermanul_V2.2.pdf, Page: 2
+
+C:\Users\dprag\OneDrive\Desktop\RAG1\government_rag_modular\data\New folder2\NEC_1234_G.pdf
+1. If there is any break in scholarship during the entire course period, making the beneficiary non-eligible for further receipt of scholarship for that specific course without the option to make renewal applications in subsequent years, the student may apply as a fresh applicant upon securing admission in any advance course at a later stage.
+Source: NEC_1234_G.pdf, Page: 4
+
+C:\Users\dprag\OneDrive\Desktop\RAG1\government_rag_modular\data\New folder1\Guidelines_NATIONAL_SCHOLARSHIP_FOR_POSTGRADUATE_STUDIES_UGC_2324.pdf
+Information not found in the provided documents.",0.0,False,0.0,False,,,retrieval,model_said_not_found,False,True,,False,0.767,4.92
+How do I link my renewal application to my NSP profile?,"If you are applying for renewal, make sure that your details (name, gender, date of birth) match those in your previous year’s application. You must also ensure that no active new application exists under your OTR. After meeting these conditions, you can link the renewal application ID to your profile using the 'Link Renewal Application' option.","C:\Users\dprag\OneDrive\Desktop\RAG1\government_rag_modular\data\New folder7\NSP_ORApplicationUsermanul_V2.2.pdf
+To link your renewal application, ensure the following conditions are met first:
+1. If you have applied for a new merit based scholarship, withdraw it before linking the renewal application ID.
+2. The name, gender, and date of birth on the new OTR must match the details on the previous academic year's application ID.
+3. OTP-based eKYC will be conducted on the mobile number linked to the Aadhaar of your parent/guardian as provided in the previous academic year's application ID.
+
+Once these conditions are met, follow these steps:
+1. Login to the NSP.
+2. Click on Link Renewal Application from the Navigation menu.
+3. Enter your Renewal Application ID which you want to link.
+4. Click on the Submit button.
+5. Enter the OTP received on the linked mobile number.
+6. Click Submit.
+
+Source: NSP_ORApplicationUsermanul_V2.2.pdf, Page: 9",0.8,True,0.0,False,,,ok,,False,False,True,False,0.661,18.33
+What happens if I discontinue my studies or change my course?,"If you discontinue your studies or change your course without approval, the scholarship will be cancelled. If the scholarship has already been paid, the amount will be recovered.",Information not found in the provided documents.,0.0,False,0.0,False,,,retrieval,unknown_source: 4. depdguidelines_1.pdf,False,True,,False,0.691,11.98
+Are there any conditions for cancellation of the scholarship?,"Yes, the scholarship can be cancelled if:  The scholar is found to have provided false information.  The scholar discontinues studies without informing the authorities.  The scholar changes the course of study or institution without prior approval.  The parent of the scholar ceases to be a Beedi, Mine, or Cine worker.","DOCUMENT: Labour_Ministry_Guidelines_of_scholarhsips schemes.pdf
+1. The scholarship sanctioned is liable to be cancelled if the scholar is found to have obtained a scholarship by false statements.
+2. If the scholarship discontinues his/her studies, the scholarship shall be stopped from the date of such discontinuance.
+3. If the scholar changes the subject of the course of study for which scholarship was originally awarded or changes the Institution of Study without the prior approval of the Welfare Commissioner.
+4. If the parent(s) of the scholar ceases to be a Beedi, Cine, Iron Ore, Manganese Ore and Chrome Ore Mine (IOMC) Workers, Limestone and Dolomite Mine (LSDM) Workers, or Mica worker.
+Source: Labour_Ministry_Guidelines_of_scholarhsips schemes.pdf, Page: 2
+
+DOCUMENT: Guidelines_NATIONAL_SCHOLARSHIP_FOR_POSTGRADUATE_STUDIES_UGC_2324.pdf
+1. Change in course of study and institution is not permitted. If the student changes the course of study or changes the institution, the scholarship will stand forfeited from the date of such a change.
+Source: Guidelines_NATIONAL_SCHOLARSHIP_FOR_POSTGRADUATE_STUDIES_UGC_2324.pdf, Page: 5
+
+DOCUMENT: GuidelinesforICAR_NTS_Scholarship_3103_3104.pdf
+1. The scholarship shall be discontinued if minimum required QGPAlCGPA is not maintained at the end of first year of study and no relaxation shall be provided.
+2. The awardee must clear all papers in each semester. In case the awardee fails in any paper at any stage the scholarship shall be stopped forthwith.
+3. Scholarship will be discontinued if the awardee does not appear in regular examination.
+4. No scholarship shall be paid for the period of strike, if any.
+5. The scholarship will be terminated from the date an awardee ceases to be on the roll of the College, University, or Institution.
+6. The scholarship will be terminated from the date the sanction of the scholarship expires.
+7. The scholarship will be terminated if the awardee is dropped by the College, University, or Institution or indulges in gross acts of indiscipline.
+8. The scholarship will be terminated if the awardee does not maintain minimum academic performance specified for continuance of scholarship.
+Source: GuidelinesforICAR_NTS_Scholarship_3103_3104.pdf, Page: 2
+
+DOCUMENT: RevisedGuidelinesNOS07102022.pdf
+1. The award of the scholarship will be cancelled and no financial support will be provided in case the awardee has taken admission by submitting false documents or not conforming to the guidelines governing the Scheme.
+Source: RevisedGuidelinesNOS07102022.pdf, Page: 10",0.822,True,0.0,False,,,ok,,False,False,True,False,0.719,7.98
+Are bank account details required for DBT payment?,"No, there is no need to provide bank account details for DBT payments. The scholarship amount will be disbursed through the Aadhaar Payment Bridge (APB). Therefore, it is mandatory that the Aadhaar number is linked to only one bank account for DBT payments. “Bharat Aadhaar Seeding Enabler (BASE) ” can be done in NPCI portal.","Labour_Ministry_Guidelines_of_scholarhsips schemes.pdf
+1. Scholarship shall be disbursed only through the Direct Benefit Transfer system into the eligible beneficiary's Aadhaar-seeded bank account with active NPCI mapping.
+2. It is the responsibility of the beneficiary to ensure that their bank account is Aadhaar-seeded, DBT-enabled, and actively mapped with NPCI.
+Source: Labour_Ministry_Guidelines_of_scholarhsips schemes.pdf, Page: 2
+
+Top_Class_Education_Scheme_2018_.pdf
+1. Yes, an Aadhaar-seeded bank account is mandatory for DBT.
+Source: Top_Class_Education_Scheme_2018_.pdf, Page: 2
+
+RevisedPM-KISANOperationalGuidelines(English).pdf
+1. The amount due to the beneficiaries is to be paid directly into their bank accounts through the mechanism of Direct Benefit Transfer. The destination bank can be a Schedule Bank, Post office, Rural Bank, Cooperative Bank or any other Financial Institution.
+Source: RevisedPM-KISANOperationalGuidelines(English).pdf, Page: 11
+
+GuidelinesforICAR_NTS_Scholarship_3103_3104.pdf
+1. The university must ensure Direct Benefit Transfer to the beneficiary student, where the bank account of the scholarship holder will be linked with the Aadhaar Number.
+Source: GuidelinesforICAR_NTS_Scholarship_3103_3104.pdf, Page: 2
+
+OPERATIONAL GUIDELINES.pdf
+1. The amount due to the beneficiaries is to be paid directly into their bank account through the mechanism of Direct Benefit Transfer. The destination bank can be a Schedule Bank, Post office, Rural Bank, Cooperative Bank or any other Financial Institution.
+Source: OPERATIONAL GUIDELINES.pdf, Page: 7",0.844,True,0.0,False,,,ok,,False,False,True,False,0.638,7.98
+"Detail of the Labour Welfare Organisation /State Nodal Officers (SNOs), and how can I contact them?","Below is the list of State Nodal Officers (SNOs) for the Labour Welfare Scheme (Education), including their names, designations, addresses, contact numbers, and email addresses: Location list of State Nodal Officers (SNOs) /Designation Address Contact Email Ajmer - Rajasthan Welfare Commissioner (WC) Office of the Welfare Commissioner, Jatia Hills, Data Nagar, Ajmer-305001 2429237 wcajmer- rj@nic.in Ahmedabad - Gujarat Welfare Commissioner (WC) Office of the Welfare Commissioner, B.D. Patel House, 5th Floor, Ahmedabad 27682888 wcc.ahd- mole@gov.in Bangalore - Karnataka Welfare Commissioner (WC) Labour Welfare Organisation, Tumkur Road, Bengaluru - 560022 23471406 wclwoblr- ka@nic.in Bhubaneswar - Odisha Welfare Commissioner (WC) Office of the Welfare Commissioner, IRC Village, Nayapalli, Bhubaneswar-751014 2551739 lwobbsr.od@g ov.in Chennai – Tamilnadu & Puducherry Welfare Commissioner (WC) Office of the Welfare Commissioner, SIDCO, Thiru. Vi. Ka. Ind. Estate, Guindy 22501625 wclwo.chn- mole@gov.in Dehradun – Uttarakhand & Himachal Pradesh Welfare Commissioner (WC) Office of the Welfare Commissioner, Rajendra Nagar, Dehradun-248001 2751041 dinesh.narayan @nic.in Guwahati – Assam, Manipur, Tripura, Meghalaya, Nagaland, Arunanchal Pradesh Welfare Commissioner (WC) Office of the Welfare Commissioner, Sapta Swahid Path, Dispur, Guwahati-781006 wc- guwahati@gov .in Hyderabad – Andhra Pradesh & Telanaga Welfare Commissioner (WC) Office of the Welfare Commissioner, Kendriya Sadan, Koti, Hyderabad- wclwohyd@ap .nic.in Jabalpur – Madhya Welfare Commissioner (WC) Office of the Welfare Commissioner, Shanti 4039510 wcjab@mp.go v.in Pradesh Kunj, South Civil Lines, Jabalpur-482001 Kolkata – West Bengal, Sikkim, A&N Island Welfare Commissioner (WC) Office of the Welfare Commissioner, Nizam Palace, A.J.C. Bose Road, Kolkata-700020 22836412 wcc.lwokol- wb@gov.in Lucknow – Uttar Pradesh Welfare Commissioner (WC I/C) Office of the Welfare & Cess Commissioner, Kendriya Bhawan, Lucknow-226024 2972753 wc.ald- mole@gov.in Nagpur – Maharshtra, Goa and Daman & Diu, Dadar and nagar haveli Welfare Commissioner (WC) Office of the Welfare Commissioner, CGO Complex, Nagpur-440006 2510474 wcngp- labour@nic.in Patna – Bihar Welfare Commissioner (WC) Office of the Welfare Commissioner, Karpoori Thakur Sadan, Patna- 2565333 wclwo.pat- mole@gov.in Raipur – Chhattisgarh Welfare Commissioner (WC) Office of the Welfare Commissioner, Anupam Nagar, Raipur, Chhattisgarh-492004 2282409 dwc_raipur@r ediffmail.com Ranchi – Jharkhand Welfare Commissioner (WC) Office of the Welfare Commissioner, Shram Bhawan, Doranda, Ranchi- 2481080 wcrlwo- jhr@nic.in Chandigarh/J ammu – Haryana, Punjab, J&K, Ladakh, Delhi Welfare Commissioner, Chandigarh Welfare Commissioner, Jammu Office of the Welfare Commissioner, Kendriya Sadan, Chandigarh +91- +91- / +91 - wc- chandigarh@c hd.nic.in, wc.jammu- mole@gov.in Thiruvanant hpuram - Kerala & Lakshadweep Welfare Commissioner Office of the Welfare Commissioner, 2d Floor, Chandrasekharan Nair Stadium, Palayam, Thiruvananthapuram, Kerala-695033 2302020 wc.kannur.ker @nic.in",Information not found in the provided documents.,0.0,False,0.0,False,,,retrieval,model_said_not_found,False,True,,False,0.605,4.73
+What is the contact detail of Ministry Nodal Officer?,"Directorate General of Labour Welfare, Ministry of Labour and Employment, Govt. of India, #26, Jaisalmer House, Mansingh Road, New Delhi – 110011; Contact No. 011 – 223384891 & email Id: dglw- mole@gov.in",Information not found in the provided documents.,0.0,False,0.0,False,,,retrieval,model_said_not_found,False,True,,False,0.682,2.02
+Who are eligible to apply for National Fellowship Scholarship Schemes?,The candidates belonging to Scheduled Tribes (ST) who have passed the Post-Graduation examination and fulfilling the Scheme guidelines of Ministry of Tribal Affairs (MoTA) are eligible to apply for these fellowship,"C:\Users\dprag\OneDrive\Desktop\RAG1\government_rag_modular\data\New folder2\Inviteapplications4NFS202526.pdf
+1. Students selected for pursuing Ph.D. programmes.
+Source: Inviteapplications4NFS202526.pdf, Page: 1
+
+C:\Users\dprag\OneDrive\Desktop\RAG1\government_rag_modular\data\New folder2\NFST-Adv4invitingApp21-22.pdf
+1. Students selected for pursuing M.Phil/Ph.D/integrated M.Phil+Ph.D programmes.
+Source: NFST-Adv4invitingApp21-22.pdf, Page: 1",0.535,True,0.0,False,,,ok,,False,False,True,False,0.667,6.96
+What type of universities/Institutions/Colleges are covered under Fellowship?,"The candidates should get admission and registration for regular and full time M.Phil/Ph.D Courses in Indian Universities / Institutions / Colleges as indicated below:- i. Universities/lnstitutions/Colleges included under section 2 (f) / 12(B) or 2(f) and 12(B) of UGC Act. ii. Deemed to be Universities included under Section 3 of the UGC Act, 1956 and eligible to receive grants-in-aid from UGC. iii. Universities/ Institutions/ Colleges funded by Central/ State Government iv. lnstitutes of National lmportance.","Amendmenttopara12112018.pdf
+1. Universities/Institutions/Colleges included under section 2(f) and 12(B) or 2(f) and 12(B) of UGC Act.
+2. Deemed to be Universities included under Section 3 of the UGC Act, 1956 and eligible to receive grants-in-aid from UGC.
+3. Universities/Institutions/Colleges funded by Central/State Government.
+4. Institutes of National Importance.
+Source: Amendmenttopara12112018.pdf, Page: 1
+
+DEPDGuidelines_1.pdf
+1. All universities/institutions recognized by the University Grants Commission (UGC).
+2. Central/State Universities (including constituent and affiliated institutions) included under Section 2(f) of UGC Act, 1956 and having valid accreditation from NAAC.
+3. Deemed Universities under Section 3 of UGC Act i.e. Institution for higher education notified by Central Government to be deemed University, in consultation with the UGC and having valid accreditation from NAAC.
+4. Institution fully funded by State/Central Government and empowered to award degrees.
+5. Institutions of National Importance as notified by Ministry of Education.
+Source: DEPDGuidelines_1.pdf, Page: 13
+
+Amendmentpara31dated27Aug2018.pdf
+1. Indian Universities / Institutions / Colleges as indicated in the scheme.
+Source: Amendmentpara31dated27Aug2018.pdf, Page: 1",0.788,True,0.0,False,,,ok,,False,False,True,False,0.7,9.64
+How many slots/seats available for fellowship?,There are 750 slots/seats available for fresh fellowship each year.,"GuidelinesFellowshipandScholarship2022.pdf
+1. The total number of fresh fellowships for M.Phil/M.Phil +PhD/Ph.D every year is 750.
+2. In case of non-availability of adequate number of Scheduled Tribe applicants, the number of fellowships not availed during that year will be carried forward to the next academic year.
+3. There is no State/University wise ceiling on the number of slots.
+Source: GuidelinesFellowshipandScholarship2022.pdf, Page: 5
+
+NFST-Adv4invitingApp21-22.pdf
+1. The number of slots for Fellowship is 750.
+Source: NFST-Adv4invitingApp21-22.pdf, Page: 1
+
+Inviteapplications4NFS202526.pdf
+1. The number of slots for Fellowship is 750.
+Source: Inviteapplications4NFS202526.pdf, Page: 1",0.764,True,0.0,False,,,ok,,False,False,True,False,0.67,9.93
+What is the duration of Fellowship?,The maximum duration for which the fellowships are available is given below: S.No. Course Name Duration M.Phil Exclusively years Ph.D Exclusively years M.Phil + Ph.D years (M.Phil) & 3 years (Ph.D),"GuidelinesFellowshipandScholarship2022.pdf
+1. The tenure of scholarship is 2 years for M.Phil students and 5 years for M.Phil+Ph.D or Ph.D students.
+2. For M.Phil, the duration is 2 years or date of submission of dissertation, whichever is earlier. For M.Phil + Ph.D, the duration is 5 years (2+3 years) or date of submission.
+3. If a student is selected for the fellowship in the 2nd or subsequent year, they are eligible for the remaining period of the course duration.
+Source: GuidelinesFellowshipandScholarship2022.pdf, Page: 4
+
+DEPDGuidelines_1.pdf
+1. For integrated M.Phil and Ph.D. or Ph.D., the maximum tenure is 5 years.
+2. For doing M.Phil., fellowship shall be granted for two years or up to the date of submission of M.Phil. Dissertation, whichever is earlier.
+Source: DEPDGuidelines_1.pdf, Page: 14",0.854,True,0.0,False,,,ok,,False,False,True,False,0.651,13.41
+Is there any family income criteria required for availing scholarship?,There is no family income criteria required for availing scholarship. FAQ_NFST_2020-21,"NEC_1234_G.pdf
+1. Yes, the parent or guardian's annual income from all sources must not exceed Rs 8.0 lakh, and an income certificate issued by the competent authority must be furnished.
+Source: NEC_1234_G.pdf, Page: 2
+
+RevisedGuidelinesNOS07102022.pdf
+1. Yes, the family income from all sources must not exceed Rs. 6,00,000 per annum.
+2. If both father and mother are working, their combined income from all sources is taken into account.
+3. If any other family member, other than the father and mother, is an earning member, their income is not included.
+4. If only one parent is alive, the income of that parent is considered.
+5. If another sibling or family member is an earning member, their income is not included.
+6. In the case of an orphan supported by a guardian, the income criteria do not apply.
+Source: RevisedGuidelinesNOS07102022.pdf, Page: 4
+
+Top_Class_Education_Scheme_2018.pdf
+1. Yes, SC students must have a total annual family income from all sources of up to Rs. 8.00 lakh.
+2. For self-employed parents or guardians, the income declaration should be in the form of a certificate issued by a revenue officer not below the rank of Tehsildar.
+3. Employed parents or guardians must obtain an income certificate from their employer and a consolidated certificate from a revenue officer for any other additional source of income.
+Source: Top_Class_Education_Scheme_2018.pdf, Page: 1
+
+tribalfellowshipguideline.pdf
+1. Yes, the total family income of the student from all sources should not exceed Rs. 6.0 lakh per annum.
+2. In cases where both father and mother are working, their combined income from all sources is taken into account in computing the total family income.
+Source: tribalfellowshipguideline.pdf, Page: 4
+
+GuidelinesFellowshipandScholarship2022.pdf
+1. Yes, the total family income of the student from all sources should not exceed Rs. 6.0 lakh per annum.
+2. In cases where both father and mother are working, their combined income from all sources is taken into account in computing the total family income.
+Source: GuidelinesFellowshipandScholarship2022.pdf, Page: 17",0.591,True,0.0,False,,,ok,,False,False,True,False,0.739,18.3
+"If a student is unable to complete his /her course, what will happen in that case?","If a student is unable to complete the course for any reason, he/she is liable to refund 50% of the total fellowship amount received by him/her to the Ministry.","DEPDGuidelines_1.pdf
+1. If the awardee is unable to complete the course successfully, he will be declared a defaulter and will become liable for the refund of the entire amount spent on him/her along with interest as prescribed in the defaulter clause.
+2. However, if the guide or head of the department certifies that the candidate has not been found wanting in commitment, dedication, or attention to studies, the DEPwD has the right to exempt the candidate from the penalty clause.
+3. In such cases, the Indian Missions will provide the return air passage to India by the shortest route and economy class.
+4. A candidate will also be declared a defaulter if they violate terms and conditions of bonds, receive adverse reports on studies or conduct from the educational institution, leave for any other country, abscond, join any other university or course, or return to India in an exigency without intimating the Indian Mission abroad. Such defaulters are liable to refund the entire amount spent along with an interest of 12% per annum.
+Source: DEPDGuidelines_1.pdf, Page: 23, 24
+
+Source: NMMSSGuidelines.pdf
+Information not found in the provided documents.
+Source: NMMSSGuidelines.pdf, Page: 6
+
+Source: NEC_1234_G.pdf
+Information not found in the provided documents.
+Source: NEC_1234_G.pdf, Page: 4",0.0,False,0.0,False,,,retrieval,model_said_not_found,False,True,,False,0.658,11.16
+How much Financial Assistance is available?,"The selected students get the fellowship as per below details: Course Name Fellowship Contingency HRA Escorts/Reader Assistance M.Phil Rs. ,000/- p.m.",Information not found in the provided documents.,0.0,False,0.0,False,,,retrieval,unknown_source: for another section under depdguidelines_1.pdf,False,True,,False,0.682,12.68
+What is the starting date of fellowship?,The starting date of fellowship for the selection year is the date from which they have taken admission/joining in M.Phil/PhD course.,"C:\Users\dprag\OneDrive\Desktop\RAG1\government_rag_modular\data\New folder3h\DEPDGuidelines_1.pdf
+1. The fellowship shall be paid from 1st April of the year for which the candidate is selected, or from the date of Registration under M.Phil/Ph.D., or from the date of joining the M.Phil/Ph.D. programme, whichever is later.
+Source: DEPDGuidelines_1.pdf, Page: 14
+
+C:\Users\dprag\OneDrive\Desktop\RAG1\government_rag_modular\data\New folder7\RevisedGuidelinesforICAR_JRF_SRFandPG_Scholarship_3105_3106.pdf
+1. The fellowship will take effect from the date the fellow joins the course or the start of the academic session for which the fellowship has been offered, whichever is later.
+Source: RevisedGuidelinesforICAR_JRF_SRFandPG_Scholarship_3105_3106.pdf, Page: 4
+
+C:\Users\dprag\OneDrive\Desktop\RAG1\government_rag_modular\data\New folder1\GuidelinesFellowshipandScholarship2022.pdf
+Information not found in the provided documents.",0.0,False,0.0,False,,,retrieval,model_said_not_found,False,True,,False,0.66,11.87
+Is there any gap period for the registration in Ph.D after completion of M.Phil Course?,The gap period for the registration in Ph.D after completion of M.Phil is one year and Fellowship will lapse if the gap period is more than one year. FAQ_NFST_2020-21,"C:\Users\dprag\OneDrive\Desktop\RAG1\government_rag_modular\data\New folder3h\DEPDGuidelines_1.pdf
+1. The maximum allowed gap period for continuation from M.Phil. to Ph.D. under this scheme shall be 2 years, measured from the date of declaration of result of M.Phil. to the date of admission to Ph.D.
+Source: DEPDGuidelines_1.pdf, Page: 14
+
+C:\Users\dprag\OneDrive\Desktop\RAG1\government_rag_modular\data\New folder1\GuidelinesFellowshipandScholarship2022.pdf
+Information not found in the provided documents.
+Source: GuidelinesFellowshipandScholarship2022.pdf, Page: 4
+
+C:\Users\dprag\OneDrive\Desktop\RAG1\government_rag_modular\data\New folder2\NEC_1234_G.pdf
+Information not found in the provided documents.
+Source: NEC_1234_G.pdf, Page: 1",0.0,False,0.0,False,,,retrieval,model_said_not_found,False,True,,False,0.701,11.97
+Can I avail any other scholarship from Central/ State Government for the same study?,The ST students once considered eligible for the Fellowship shall not be entitled for any other scholarship of the Central or State Government the same study.,"DEPDGuidelines_1.pdf
+1. The candidate is eligible for scholarship under this scheme to pursue the same level (Masters Degree/Ph.D.) course in a different stream other than for which he/she has already acquired qualification, subject to the condition that the candidate has not availed scholarship from Central/State Government for that same level course.
+Source: DEPDGuidelines_1.pdf, Page: 18
+
+AICTE_2011_F.pdf
+1. The candidate should NOT be recipient of any of the Central Govt. / State Govt. / AICTE Sponsored scholarships.
+Source: AICTE_2011_F.pdf, Page: 1
+
+AICTE_2010_F.pdf
+1. The candidate should NOT be recipient of any of the Central Govt. / State Govt. / AICTE Sponsored scholarships.
+Source: AICTE_2010_F.pdf, Page: 1
+
+Amendmentpara31dated27Aug2018.pdf
+Information not found in the provided documents.
+Source: Amendmentpara31dated27Aug2018.pdf, Page: 1
+
+EDUGuidelines.pdf
+Information not found in the provided documents.
+Source: EDUGuidelines.pdf, Page: 7",0.0,False,0.0,False,,,retrieval,model_said_not_found,False,True,,False,0.67,10.54
+Can I transfer the fellowship from one Universities/Institutes/Colleges to another Universities/Institutes/Colleges?,"The Selected Students of Fellowship will be permitted to transfer the fellowship from oneUniversities/Institutes/Colleges to another Universities/Institutes/Colleges subject to online submission of `No Objection’ Certificate from both the Universities/Institutes/Colleges. Thereafter, approval of Ministry is required to complete the process of transfer.","DEPDGuidelines_1.pdf
+1. The candidate shall not change the course of study or research for which scholarship has been sanctioned. However, if an awardee pursuing a Master Degree or Ph.D. in a university or institution faces a serious situation where their guide has left with no immediate replacement, or the institution has discontinued research support facilities in the area, the Indian Missions abroad are authorized to allow a change of university or institution. This is subject to the conditions that any credits earned are acceptable for transfer by the second university or institution, the total period of the award remains unchanged, and such a transfer is permitted only once during the award.
+Source: DEPDGuidelines_1.pdf, Page: 23
+
+GuidelinesFellowshipandScholarship2022.pdf
+1. The research scholar is permitted to transfer the fellowship from one to another Universities, Institutes, or Colleges.
+2. This transfer requires prior approval from the universities, institutes, or colleges where the fellow was pursuing the course and the new university where they intend to take the transfer.
+3. The old university will initiate the online transfer of the scholar at the designated bank portal, and the new university will accept the transfer request.
+4. Both the old and new universities must upload a No Objection Certificate for the transfer at the same portal.
+5. After receiving the online transfer requests from both universities, the Ministry will approve the transfer.
+Source: GuidelinesFellowshipandScholarship2022.pdf, Page: 13",0.774,True,0.0,False,,,ok,,False,False,True,False,0.77,20.55
+How can a Student upgrade course from M.Phil to Ph.D ?,"The Student’s is required to submit upgradation certificate issued by the Committee of three members comprising of Head of the Department, Supervisor and one outside subject expert to be constituted by the concerned Department of the University/Institution/College for evaluation of the work of student.","DOCUMENT: C:\Users\dprag\OneDrive\Desktop\RAG1\government_rag_modular\data\New folder2\NFTSInstructionmanualEnglish2024-25.pdf (one scheme)
+
+1. M.Phil. students who were previously selected and availed fellowship under the NFST/RGNF scheme by the Ministry of Tribal Affairs, on completion of M.Phil. and after joining Ph.D., may apply separately in the module (upgradation of M.Phil. to Ph.D.) in fellowship-tribal@nic.in
+
+Source: NFTSInstructionmanualEnglish2024-25.pdf, Page: 1",0.551,True,0.0,False,,,ok,,False,False,True,False,0.663,23.98
+What are the reasons for cancellation of fellowship?,"There are following reasons for cancellation of fellowship: - ❖ If the awardee is found to be ineligible to receive the award, at any point of time during the entire duration of the fellowship. ❖ Misconduct of awardee. ❖ Unsatisfactory progress of research work. ❖ Any other fellowship is drawn from other source(s)/ drawn fellowship or selected by Ministry of Tribal Affairs for Fellowship earlier. ❖ Concealment of facts and any other ground of misconduct.","GuidelinesFellowshipandScholarship2022.pdf
+1. Proven misconduct as communicated or certified by university authorities.
+2. The research scholar is found ineligible subsequently.
+Source: GuidelinesFellowshipandScholarship2022.pdf, Page: 15
+
+RevisedGuidelinesforICAR_JRF_SRFandPG_Scholarship_3105_3106.pdf
+1. On the date the fellow ceases to be on the rolls of the Agricultural University.
+2. On the date the sanction of the fellowship expires.
+3. If the fellow leaves the institution where the fellowship was offered.
+4. If a fellow is dropped by the institute due to poor performance.
+5. If at any time in the opinion of the Agricultural University a fellow is found to be negligent in their studies, does not devote full time for studies and research, the progress report is unsatisfactory, or is guilty of unbecoming conduct.
+6. If a fellow does not complete or leaves their studies before the expiry of the sanctioned tenure of the fellowship.
+Source: RevisedGuidelinesforICAR_JRF_SRFandPG_Scholarship_3105_3106.pdf, Page: 5",0.744,True,0.0,False,,,ok,,False,False,True,False,0.681,20.95
+How can I apply online for scholarship?,"New Studentsare required to apply onlinefor the first time and need to “Register” onthe National Fellowship Scholarship Portal athttp://fellowship.tribal.gov.in by filling ""Student Registration Form"". After successful login details, a text message will be sent to the registered e-mail address. FAQ_NFST_2020-21","Document: RevisedGuidelinesNOS07102022.pdf
+1. Applications for scholarships under the scheme are invited online through the National Overseas Scholarship Portal (NOSP) developed by the Ministry at overseas.tribal.gov.in.
+2. Before filling the application form online, candidates are required to register themselves on the NOSP and on DigiLocker.
+3. Aadhaar is mandatory for registration on the portal, and applicants must upload documents through DigiLocker.
+Source: RevisedGuidelinesNOS07102022.pdf, Page: 7
+
+Document: NEC_1234_F.pdf
+1. To apply online, visit the website through the URL www.scholarships.gov.in, or use the mobile app of NSP or UMANG.
+2. Click on the particular scheme displaying in the on-boarded schemes section on the home page to apply.
+Source: NEC_1234_F.pdf, Page: 2
+
+Document: NSP_ORApplicationUsermanul_V2.2.pdf
+1. Access the National Scholarship Portal (NSP) using the provided link and select the Students option, then click Login provided under Apply For Scholarship.
+2. Students can log in using Login with Aadhaar, Login with APAAR, or Login with OTR.
+3. Browse the NSP Application Portal URL and log in using your credentials.
+4. Navigate to the Basic Information section and provide the required details in General Information, Academic Details, and Application Specific Details.
+5. After submitting the Basic Information, go to the Apply Fresh menu, read the guidelines, accept the terms by clicking on the checkboxes, and click continue.
+Source: NSP_ORApplicationUsermanul_V2.2.pdf, Page: 1
+
+Document: MORB_GL.pdf
+1. Online submission of the application form can be done through http://www.scholarships.gov.in/ from any internet access point.
+Source: MORB_GL.pdf, Page: 14
+
+Document: tribalfellowshipguideline.pdf
+1. Applications are submitted online through the National Scholarship Portal at www.scholarships.gov.in/.
+2. Students submit the application online in the portal after taking admission for various courses in the notified Universities/Institutes.
+Source: tribalfellowshipguideline.pdf, Page: 6",0.783,True,0.0,False,,,ok,,False,False,True,False,0.728,24.24
+"What should students do, in case they face any problem while filling the application form in Google Chrome?","If students face any problem while filling the application form in Google Chrome, students are advised to use internet explorer. In case any issue/error in internet explorer as well, they are advised to clear browser history /cache and try again. They can send mail given in portal at “Contact us”.","INSTRUCTIONS MANNUAL FOR FILLING  NFST APPLICATION FORM.pdf
+1. If research scholars face any problem while filling the application form in Google Chrome or any other browser, scholars are advised to use internet explorer. In case any issue/error in internet explorer as well, they are advised to clear browser history /cache and try again.
+Source: INSTRUCTIONS MANNUAL FOR FILLING  NFST APPLICATION FORM.pdf, Page: 1
+
+InstrctionManuaNOSApplication2026-27.pdf
+1. In case of any problem while filling the application form in Google Chrome or any other browser, it is advised to use Microsoft edge. In case any issue/error in internet explorer as well, it is advised to clear browser history/cache and try again.
+Source: InstrctionManuaNOSApplication2026-27.pdf, Page: 1
+
+InstructionManual-NOS-2025-26.pdf
+1. In case of any problem while filling the application form in Google Chrome or any other browser, it is advised to use Microsoft edge. In case any issue/error in internet explorer as well, it is advised to clear browser history/cache and try again.
+Source: InstructionManual-NOS-2025-26.pdf, Page: 1
+
+Instruction-manual-NOS-202324.pdf
+1. In case of any problem while filling the application form in Google Chrome or any other browser, it is advised to use internet explorer. In case any issue/error in internet explorer as well, it is advised to clear browser history/cache and try again.
+Source: Instruction-manual-NOS-202324.pdf, Page: 1
+
+NFTSInstructionmanualEnglish2024-25.pdf
+1. In case of any problem while filling the application form in Google Chrome or any other browser, it is advised to use internet explorer. In case of any issue/error in internet explorer as well, it is advised to clear the browser history/cache and try again.
+Source: NFTSInstructionmanualEnglish2024-25.pdf, Page: 1",0.805,True,0.0,False,,,ok,,False,False,True,False,0.66,17.47
+What documents are needed to be uploaded on Portal while applying for Scholarship?,The following documents are required to be uploaded for Fresh applications under the National Fellowship Scholarship anduploading of document is not necessary for applying under Fellowship Scholarship Scheme. I. Student Photo. II. Date of Birth Certificate {SSC/HSC/10th board certificate} III. Scheduled Tribe / PVTG Certificate. IV. Family Income Certificate issued by the Competent Authority. V. BPL Certificate (If opted for it / “Father/Mother’s acceptable should not be the Grand parents’ BPL Certificate) VI. Divangjan/Person with Disabilities Certificate (If applicable) VII. All Semester Marksheets in One PDF File (Where Percentage/CGPA/OGPA can be clearly identified) VIII. Conversion Factor Formula: In Case of CGPA/OGPA to Percentage the relevant document should be uploaded where the equivalent percentage has mentioned [ex: in the backside of the marksheet or cane be obtained letter from the College/Institute/University where the equivalent percentage is to be mentioned in the letter].,"tribalfellowshipguideline.pdf
+1. ST Certificate or PVTG Certificate is required for a fresh candidate (not required for a renewal candidate), and the caste certificate must be signed and stamped by the competent authority.
+2. Income Certificate is required for a fresh candidate (not required for a renewal candidate), issued for the financial year of the preceding year by the designated authority of the respective State or UT.
+3. Fee Receipt is required for both fresh and renewal candidates.
+4. Scanned copy of the bank passbook is required for both fresh and renewal candidates.
+5. Mark sheet or certificate of qualifying examination is required for both fresh and renewal candidates.
+Source: tribalfellowshipguideline.pdf, Page: 6
+
+GuidelinesFellowshipandScholarship2022.pdf
+1. ST Certificate or PVTG Certificate is required for a fresh candidate (not required for a renewal candidate), and the caste certificate must be signed and stamped by the competent authority.
+2. Income Certificate is required for a fresh candidate (not required for a renewal candidate), issued for the financial year of the preceding year by the designated authority of the respective State or UT.
+3. Fee Receipt is required for both fresh and renewal candidates.
+4. Scanned copy of the bank passbook is required for both fresh and renewal candidates.
+5. Mark sheet or certificate of qualifying examination is required for both fresh and renewal candidates.
+Source: GuidelinesFellowshipandScholarship2022.pdf, Page: 19
+
+MORB_GL.pdf
+Documents in support of claims such as income, mark sheets, bank account details, category, and caste certificate are enabled for uploading.
+Source: MORB_GL.pdf, Page: 13
+
+DEPDGuidelines_1.pdf
+All requisite documents like photograph, proof of age, disability certificate, income certificate of the parent, tuition fees receipt, and last academic qualification certificate duly filled in the prescribed format are required to be uploaded in the on-line system.
+Source: DEPDGuidelines_1.pdf, Page: 10
+
+RevisedGuidelinesNOS07102022.pdf
+Applicants would be required to upload documents through Digi locker.
+Source: RevisedGuidelinesNOS07102022.pdf, Page: 7",0.76,True,0.0,False,,,ok,,False,False,True,False,0.713,16.88
+What should be the Type and size of the documents and profile photo to be uploaded?,All documents should be uploaded in pdf file and the Profile Photo should be in .jpg/.jpeg format (Size: - 50 KB-100KB).,"C:\Users\dprag\OneDrive\Desktop\RAG1\government_rag_modular\data\New folder3h\InstrctionManuaNOSApplication2026-27.pdf
+1. Profile photo format should be only JPEG/JPG with a size of 50 KB to 100 KB.
+2. Other valid documents should be kept ready in a PDF file format.
+Source: InstrctionManuaNOSApplication2026-27.pdf, Page: 1
+
+C:\Users\dprag\OneDrive\Desktop\RAG1\government_rag_modular\data\New folder3h\InstructionManual-NOS-2025-26.pdf
+1. Profile photo format should be only JPEG/JPG with a size of 50 KB to 100 KB.
+2. Other valid documents should be kept ready in a PDF file format.
+Source: InstructionManual-NOS-2025-26.pdf, Page: 1
+
+C:\Users\dprag\OneDrive\Desktop\RAG1\government_rag_modular\data\New folder2\NFTSInstructionmanualEnglish2024-25.pdf
+1. Profile photo should be in jpg/jpeg format.
+2. Documents should be uploaded as a PDF file.
+Source: NFTSInstructionmanualEnglish2024-25.pdf, Page: 1
+
+C:\Users\dprag\OneDrive\Desktop\RAG1\government_rag_modular\data\New folder3h\DigiLocker-User-Manual_NOS.pdf
+Information not found in the provided documents.
+Source: DigiLocker-User-Manual_NOS.pdf, Page: 13
+
+C:\Users\dprag\OneDrive\Desktop\RAG1\government_rag_modular\data\New folder7\RevisedGuidelinesNOS07102022.pdf
+Information not found in the provided documents.
+Source: RevisedGuidelinesNOS07102022.pdf, Page: 7",0.0,False,0.0,False,,,retrieval,model_said_not_found,False,True,,False,0.649,7.84
+"What should I do, if I do not find my university name in the drop- down menu?",You can select “other option” from the drop-down list and type your university/Institute name in the specified box. FAQ_NFST_2020-21,Information not found in the provided documents.,0.0,False,0.0,False,,,retrieval,unknown_source: instructions mannual for filling nfst application form.pdf,False,True,,False,0.685,6.85
+Can I edit the information already saved and upto what time?,You can edit information till you ‘Submit’ the application finally.,"C:\Users\dprag\OneDrive\Desktop\RAG1\government_rag_modular\data\New folder7\NEC_1234_F.pdf
+All the information can be edited till the closure of the application form. After final submission, the application is forwarded to the next level and cannot be edited by the applicant. However, the software provides a facility at the level of the Institute and State to edit and correct limited information, which includes Gender, Religion, Category, Profession, Annual Income, Aadhar Number, Disability, Day Scholar/Hosteler, Mode of Study, IFSC Code, Account Number, Admission Fees, and Tuition Fees. Additionally, you do not have to fill up the online application in one sitting; you can fill it in as many sittings as you wish until you are satisfied, using the save facility at every stage.
+Source: NEC_1234_F.pdf, Page: 3
+
+C:\Users\dprag\OneDrive\Desktop\RAG1\government_rag_modular\data\New folder1\ClarificationsrelatingtoClauses.PDF
+Information not found in the provided documents.
+
+C:\Users\dprag\OneDrive\Desktop\RAG1\government_rag_modular\data\New folder1\ClarificationsrelatingtoClauses_2.pdf
+Information not found in the provided documents.
+
+C:\Users\dprag\OneDrive\Desktop\RAG1\government_rag_modular\data\New folder3h\INSTRUCTIONS MANNUAL FOR FILLING  NFST APPLICATION FORM.pdf
+The applicant needs to click the Save As Draft button whenever required to resume the application form in edit mode. Any information cannot be updated or edited once the application has been submitted successfully by clicking the Submit button.
+Source: INSTRUCTIONS MANNUAL FOR FILLING  NFST APPLICATION FORM.pdf, Page: 18",0.0,False,0.0,False,,,retrieval,model_said_not_found,False,True,,False,0.632,7.27
+Which fields I can edit before final submission of application?,"-You can edit all details except “Registration Details”. It may be noted that once you ‘finally submit’ your application it will be forwarded to the next level and after that editing is not possible. Therefore before Final Submission, it should be ensured that details are filled correctly and documents uploaded.",Information not found in the provided documents.,0.0,False,0.0,False,,,retrieval,model_said_not_found,False,True,,False,0.697,9.41
+Which fields in the application form are mandatory?,- Fields provided with black asterisk (*) mark are mandatory fields.,"DOCUMENT: NEC_1234_F.pdf
+
+1. Fields provided with a red asterisk mark are mandatory fields.
+
+Source: NEC_1234_F.pdf, Page: 3
+
+
+DOCUMENT: NSP_SOP.pdf
+
+1. Fields marked as a star or asterisk symbol are mandatory.
+
+Source: NSP_SOP.pdf, Page: 6",0.786,True,0.0,False,,,ok,,False,False,True,False,0.628,13.3
+Do I have to fill up the online application in one sitting?,"No, you can fill up the online application in many sittings by clicking ‘Save Draft’ button, until you are satisfied that you have entered all desirable fields correctly. The software provides auto save facility to save your application at every stage until you click on ‘Submit’ button finally.","Document: NEC_1234_F.pdf
+1. No. You can fill up the online application in as many sittings as you wish, until you are satisfied that you have entered all desirable fields correctly. The software provides facility to save your application at every stage.
+
+Source: NEC_1234_F.pdf, Page: 3",0.873,True,0.0,False,,,ok,,False,False,True,False,0.65,14.33
+Is there any Award No?,"A provisional award number will be provided to the candidate on the basis of Domicile state mentioned in application Form. Once his/her application is submitted online, students should remember their ID till the course completion if selected. All communication with the Ministry will be made by using this ID.",Information not found in the provided documents.,0.0,False,0.0,False,,,retrieval,weak_context: best score 0.49 is below 0.5,False,True,,False,0.493,1.12
+What should I do if I forget my password?,The process of re-set of the password is given as below: • Student login->Forgot Password • Enter the mobile number and click on the submit button. • Enter OTP received on mobile Number and enter new password • click the submit button.,Information not found in the provided documents.,0.0,False,0.0,False,,,retrieval,model_said_not_found,False,True,,False,0.667,7.25
+How should I check the status of my application online?,"After login, enter valid Award no and Password to check the status. Your application status shows as “Pending” or “submitted” under the option ‘Check Your Status’. FAQ_NFST_2020-21","NEC_1234_F.pdf:
+Student can check the status of Online Application by logging in using his/her Permanent id and Date Of Birth and open the link Check your Status.
+Source: NEC_1234_F.pdf, Page: 5
+
+MORB_GL.pdf:
+Applicants can track the status of their application online.
+Source: MORB_GL.pdf, Page: 7",0.704,True,0.0,False,,,ok,,False,False,True,False,0.713,14.63
+How can I check my result?,The list of Provisionally selected students will be published on Ministry portal. The students can check their result in the Ministry portal. The students are also communicated through SMS.,"Guidelines_ISHAN UDAY_2324.pdf:
+1. Candidates can check their result normally declared in the month of November/December of the same year by NSP on the National Scholarship Portal by using their User ID and Password generated at the time of filing online application.
+2. The results are also uploaded on the UGC website at www.ugc.ac.in/notices.
+Source: Guidelines_ISHAN UDAY_2324.pdf, Page: 2
+
+Guidelines_NATIONAL_SCHOLARSHIP_FOR_POSTGRADUATE_STUDIES_UGC_2324.pdf:
+1. Candidates can check their result normally declared in the month of November/December of the same year by NSP on the National Scholarship Portal by using their User ID and Password generated at the time of filing online application.
+2. The results are also uploaded on the UGC website at www.ugc.ac.in/notices.
+Source: Guidelines_NATIONAL_SCHOLARSHIP_FOR_POSTGRADUATE_STUDIES_UGC_2324.pdf, Page: 4",0.626,True,0.0,False,,,ok,,False,False,True,False,0.599,12.95
+What are the criteria for selection?,The selection of the students takes place on the based on the marks obtained in Post Graduation Course.,"Guidelines_NATIONAL_SCHOLARSHIP_FOR_POSTGRADUATE_STUDIES_UGC_2324.pdf
+1. The selection shall be made strictly as per the merit of candidates except in the case of 'Single/Twin/Fraternal Girl Child'.
+2. The slots shall be allocated as per the Government of India reservation policy, with 30% of slots reserved for women candidates.
+3. 50% of slots under each category are earmarked for Arts, Humanities and Social Sciences, Law, Management, and the other 50% are earmarked for Science, Engineering and Technology, medical, technical, agriculture, forestry programmes.
+4. In case of a tie or more than one candidate having similar marks in their UG examination at the lowest level of the merit list, the list shall be further shortlisted or segregated based on marks obtained in Under-graduation (UG).
+5. If there are still more candidates in the merit list compared to the desired or declared slots, further shortlisting shall be done based on marks obtained in class XII.
+Source: Guidelines_NATIONAL_SCHOLARSHIP_FOR_POSTGRADUATE_STUDIES_UGC_2324.pdf, Page: 4
+
+NEC_1234_G.pdf
+1. Merit lists will be drawn from among finally verified applications as per the scheme guidelines and after following the laid down procedure on the NSP.
+2. Selection of students for M.Phil and Ph.D. will be done on the basis of the topic of research or synopsis which has relevance to the problems or issues related to the NE Region, and should invariably be directly, specifically, and currently relevant to the NE Region, while basic and theoretical research shall not be favoured in general.
+3. The scholarship is purely on a merit basis, prepared exclusively on the basis of marks obtained by the candidate in the qualifying exams and complying with the level-of-course-wise slots allotted to the states.
+Source: NEC_1234_G.pdf, Page: 3
+
+DEPDGuidelines_1.pdf
+1. Applications shall be screened by the Screening Committee as per the scheme guidelines.
+2. Eligible candidates shortlisted by the Screening Committee shall be placed before the Selection Committee.
+3. The Selection Committee shall assess eligible candidates based on their educational qualifications and experience, their disability category and percentage, the University abroad, and the course to which they propose to take admission to draw a merit list within the sanctioned number of yearly slots.
+Source: DEPDGuidelines_1.pdf, Page: 21
+
+RevisedGuidelinesNOS07102022.pdf
+1. All applications received within the stipulated period will be scrutinized for eligibility criteria, and separate merit lists will be drawn for each field of study.
+2. First priority will be given to candidates who have already got admission and are pursuing their studies in the top 1,000 ranked foreign Institutes/Universities (as per the latest QS world ranking).
+3. The merit list will be drawn based on the ranking of the Institute.
+4. In case of a tie between the QS rankings of two or more candidates, merit will be decided on the basis of marks or grades secured by the candidate in the qualifying examination for higher studies for which the scholarship has been applied for.
+Source: RevisedGuidelinesNOS07102022.pdf, Page: 8",0.62,True,0.0,False,,,ok,,False,False,True,False,0.656,16.99
+What should I do if passing marks are wrongly mentioned in application form?,"The student can send a request query at https://tribal.nic.in/Grievance/ for changing of application in draft mode before the closing date. Once application made is in draft mode, you can modify your application and resubmit the application before due date.","Information not found in the provided documents.
+
+Source: NSPInstituteFAQV1.7.pdf, Page: 7
+Source: NSP_ORApplicationUsermanul_V2.2.pdf, Page: 4
+Source: NEC_1234_F.pdf, Page: 3
+Source: NSP_SOP.pdf, Page: 8
+Source: Instruction manual for verification module.pdf, Page: 9",0.0,False,0.0,False,,,retrieval,model_said_not_found,False,True,,False,0.64,8.55
+How do I know the name and address of the Nodal Officer?,The name and contact details of the Nodal Officerare available with university/Institute.,Information not found in the provided documents.,0.0,False,0.0,False,,,retrieval,model_said_not_found,False,True,,False,0.681,9.51
+Can I make Correction in date of birth after submission of application form?,The student can send a request query at https://tribal.nic.in/Grievance/ for correction of his/her date of birth.,"Information not found in the provided documents.
+
+Source: NSP_ORApplicationUsermanul_V2.2.pdf, Page: 4
+Source: Canarabank-UserManual.pdf, Page: 8
+Source: NEC_1234_F.pdf, Page: 3",0.0,False,0.0,False,,,retrieval,model_said_not_found,False,True,,False,0.622,7.96
+Can I change my mobile number and email id after submission of application form?,"No, you cannot change your mobile number and email id after submitting the application form. FAQ_NFST_2020-21","DOCUMENT: C:\Users\dprag\OneDrive\Desktop\RAG1\government_rag_modular\data\New folder7\NSP_ORApplicationUsermanul_V2.2.pdf
+1. You can update your contact information, such as your mobile number and email ID, via the My Profile section.
+2. Contact details cannot be edited directly on the Application Form.
+3. To update your email ID: log in, go to My Profile, select Update Email from the left menu, enter your new email ID, click Get OTP, enter the OTP sent to your new email, and click Verify.
+4. To update your mobile number: go to the Register Page and click on 'Change Mobile No.', authenticate your credentials using your OTR number or Reference number to receive an OTP on your current registered mobile number, enter the OTP, and click Verify. After updating in OTR, you must refresh the updated information into the Application Form.
+Source: NSP_ORApplicationUsermanul_V2.2.pdf, Page: 4
+
+DOCUMENT: C:\Users\dprag\OneDrive\Desktop\RAG1\government_rag_modular\data\New folder3h\Canarabank-UserManual.pdf
+1. Modification or updation of email ID, mobile number, and address of a student can be initiated by the University or institution user and must be approved by the UGC user using Maker/Checker ID.
+Source: Canarabank-UserManual.pdf, Page: 8
+
+DOCUMENT: C:\Users\dprag\OneDrive\Desktop\RAG1\government_rag_modular\data\New folder2\NFTSInstructionmanualEnglish2024-25.pdf
+1. Once the registration process is completed, the basic information, including email ID and mobile number, cannot be changed.
+Source: NFTSInstructionmanualEnglish2024-25.pdf, Page: 5",0.689,True,0.0,False,,,ok,,False,False,True,False,0.735,16.03
+Can I change my domicile state/district name after submission of application form?,The students can’t change their domicile state/district name after submission of application form.,"Instruction-manual-NOS-202324.pdf
+Once the registration process is completed, the basic information can not be changed, which includes the domicile State and district.
+Source: Instruction-manual-NOS-202324.pdf, Page: 5
+
+For all other documents, Information not found in the provided documents.",0.0,False,0.0,False,,,retrieval,model_said_not_found,False,True,,False,0.606,9.6
+Can I change my course after selection?,"You can submit a written request to your University for change of course after selection. Subsequently, university will make correction while linking ID in consultation with Ministry.","C:\Users\dprag\OneDrive\Desktop\RAG1\government_rag_modular\data\New folder3h\DEPDGuidelines_1.pdf
+1. No request for change of Institution, College, or University shall be entertained at any stage.
+2. If an Awardee desires to change the course or university, he or she can apply afresh, and if a new award letter is issued based on the new application, the previous award letter shall stand cancelled.
+3. The candidate shall not change the course of study or research for which the scholarship has been sanctioned. However, if a situation arises where an awardee pursuing a Master Degree or Ph.D. finds a serious situation where their guide has left without immediate replacement or the university or institution has discontinued research support facilities in the area, the Indian Missions abroad are authorized to allow a change of university or institution. This is subject to the conditions that the Indian Missions are satisfied about the need, the credits earned in the earlier university or institution are acceptable for transfer by the second university or institution, the total period of the award remains unchanged, and such a transfer or change is permitted only once during the award.
+Source: DEPDGuidelines_1.pdf, Page: 21, 23
+
+C:\Users\dprag\OneDrive\Desktop\RAG1\government_rag_modular\data\New folder1\Guidelines_NATIONAL_SCHOLARSHIP_FOR_POSTGRADUATE_STUDIES_UGC_2324.pdf
+1. Change in course of study and institution is not permitted. If the student changes the course of study or changes the institution, the scholarship will stand forfeited from the date of such a change.
+Source: Guidelines_NATIONAL_SCHOLARSHIP_FOR_POSTGRADUATE_STUDIES_UGC_2324.pdf, Page: 5
+
+C:\Users\dprag\OneDrive\Desktop\RAG1\government_rag_modular\data\New folder7\NSP_ORApplicationUsermanul_V2.2.pdf
+Information not found in the provided documents.
+Source: NSP_ORApplicationUsermanul_V2.2.pdf, Page: 4",0.0,False,0.0,False,,,retrieval,model_said_not_found,False,True,,False,0.631,9.72
+Which documents have to be sent to the Ministry after the selection?,The students are required to send the following documents to the Ministry after selection: - ❖ Original bond paper duly filled (Execute on non-judicial stamp paper of Rs. 20 or above) ❖ Signed Check list by university,"Information not found in the provided documents.
+
+Source: GuidelinesFellowshipandScholarship2022.pdf, Page: 9",0.0,False,0.0,False,,,retrieval,model_said_not_found,False,True,,False,0.635,7.95
+Which documents have to be uploadedon the grievance portal of the Ministry after the selection?,The students are required to upload following documents on the grievance portal of the Ministryafter the selection: - ❖ Checklistduly signed with stamps by University ❖ Undertaking for availing/NOC for non-availing scholarship from any other source,Information not found in the provided documents.,0.0,False,0.0,False,,,retrieval,model_said_not_found,False,True,,False,0.662,7.17
+Which documents have to be submitted to the University after the selection?,The Student are required to submit the documents to as and when asked by the university.,Information not found in the provided documents.,0.0,False,0.0,False,,,retrieval,model_said_not_found,False,True,,False,0.654,5.84
+When does students have to update a Research Topic?,The students are required to update research details at the grievance portal in the Research section after joining the Course.,Information not found in the provided documents.,0.0,False,0.0,False,,,retrieval,model_said_not_found,False,True,,False,0.613,3.61
+Whether the continuation certificate has to be submitted monthly or quarterly?,The continuation certificate is required to be submitted by students on quarterly basis. FAQ_NFST_2020-21,"GuidelinesFellowshipandScholarship2022.pdf
+The continuation certificate has to be uploaded quarterly in the prescribed proforma, at the end of every quarter (1st quarter April-June by 10th July, 2nd quarter July-September by 10th October, 3rd quarter October-December by 10th January, 4th quarter January-March by 10th of April).
+Source: GuidelinesFellowshipandScholarship2022.pdf, Page: 11",0.781,True,0.0,False,,,ok,,False,False,True,False,0.61,12.23
+whether the HRA certificate has to be submitted monthly or quarterly?,The HRA certificate is required to be submitted by students on quarterly basis.,"DEPDGuidelines_1.pdf
+In case the scholar wishes to draw HRA, he/she is required to claim HRA on monthly basis by submitting monthly confirmation Certificate in the prescribed format, to his/her institution.
+Source: DEPDGuidelines_1.pdf, Page: 16",0.774,True,0.0,False,,,ok,,False,False,True,False,0.613,12.22
+When does students has to submit a progress report?,The students are required to submit the progress report to the university on yearly basis.,Information not found in the provided documents.,0.0,False,0.0,False,,,retrieval,model_said_not_found,False,True,,False,0.618,20.07
+What should students do if the joining date is wrongly mentioned in the joining report?,The students are required to re-submit the joining report to the University with actual date of joining. University is required to modify joining date while linking the ID at Canara Bank portal,Information not found in the provided documents.,0.0,False,0.0,False,,,retrieval,model_said_not_found,False,True,,False,0.611,19.67
+Is It necessary to upload all the documents (Continuation certificate/HRA Certificate etc.) for continuous fellowship?,The student’s is required to upload all the documents (continuation certificate/HRA Certificate etc.) for availing fellowship on portal. Without uploading aforesaid documents fellowship will not be processed by the ministry.,"C:\Users\dprag\OneDrive\Desktop\RAG1\government_rag_modular\data\New folder1\GuidelinesFellowshipandScholarship2022.pdf
+
+1. It is required to quarterly upload the continuation certificate in the prescribed proforma at the end of every quarter (1st quarter April-June by 10th July, 2nd quarter July-September by 10th October, 3rd quarter October-December by 10th January, and 4th quarter January-March by 10th of April).
+2. The university marks for monthly HRA entitlement of the scholar after approval of continuation by the Ministry.
+3. After the completion of a one-year duration of fellowship, the concerned fellow/awardee shall submit the progress report at the university or upload it at the tribal repository portal.
+
+Source: GuidelinesFellowshipandScholarship2022.pdf, Page: 11",0.779,True,0.0,False,,,ok,,False,False,True,False,0.669,21.92
+What should students do if the account status is shown as “Student ID Withheld”?,The student may request to the nodal officer of the University to initiate “withheld removal “option and get the approval from the Ministry.,Information not found in the provided documents.,0.0,False,0.0,False,,,retrieval,model_said_not_found,False,True,,False,0.674,4.81
+What is the meaning of “Initiation awaited from University” with respect to uploading documents?,“Initiation awaited from University” means approval is pending from the University.,Information not found in the provided documents.,0.0,False,0.0,False,,,retrieval,model_said_not_found,False,True,,False,0.58,8.37
+Do the students have to refund the Schorship amount if the same has been availed from other sources?,"Yes, the student is required to refund the amount of Scholarship/fellowship availed from other sources. Otherwise, fellowship will not be processed, if student does not refund the availed amount to concern university/State/other agency. FAQ_NFST_2020-21","C:\Users\dprag\OneDrive\Desktop\RAG1\government_rag_modular\data\New folder3h\INSTRUCTIONS MANNUAL FOR FILLING  NFST APPLICATION FORM.pdf
+1. The candidate will have to refund the amount of scholarship availed from other sources, if he/she gets selected for the Fellowship.
+Source: INSTRUCTIONS MANNUAL FOR FILLING  NFST APPLICATION FORM.pdf, Page: 15",0.821,True,0.0,False,,,ok,,False,False,True,False,0.674,11.3
+What is the “No Objection Certificate” (NoC) and where does it have to be uploaded?,The students who have not availed any scholarship/fellowship from any other source are required to submit “No Objection Certificate” athttps://tribal.nic.in/Grievance/ under the section “NOC/Refund receipt”,Information not found in the provided documents.,0.0,False,0.0,False,,,retrieval,model_said_not_found,False,True,,False,0.543,9.49
+"Which documents student is required to submit to the University, after completion of the course?","The students are required to submit either the copy of award of degree (M.Phil./Ph.D) or course completion certificate to the university. The details of course completion need to be filled by the University on the ministry portal, failing which the payment for the last 3 months will not be released. The student is also required to upload thesis on portal",Information not found in the provided documents.,0.0,False,0.0,False,,,retrieval,model_said_not_found,False,True,,False,0.666,7.68
+Which documents have to be uploaded on the Ministry portal?,"The students are required to upload either the copy of award of degree (M.Phil./Ph.D) or course completion certificate. In addition to this, thesis report also has to be uploaded at tribal repository.","Instruction manual for verification module.pdf
+1. Relevant photocopies of Institute included under section i/ii/iii/iv in PDF format (Size 50KB to 3MB), containing the valid document of your university provided by the competent authority (UGC/State Authority).
+Source: Instruction manual for verification module.pdf, Page: 4
+
+GuidelinesFellowshipandScholarship2022.pdf
+1. Latest coloured passport size photograph.
+2. ST/PVTG certificate issued by the competent authority.
+3. 10th/Matriculation/equivalent certificate in support of date of birth.
+4. Divyangjan certificate issued by the competent authority.
+5. Post-Graduation mark sheet (aggregate marks in percentage) or equivalent percentage marks in case of CGPA, along with the conversion formula from CGPA to percentage issued by the Institute/University.
+6. Admission/Joining certificate of M.Phil/Ph.D/Integrated M.Phil+Ph.D from the concerned University.
+7. Offer of admission in respect of students admitted to IITs/AIIMS/IIMs/IISERs.
+Source: GuidelinesFellowshipandScholarship2022.pdf, Page: 9
+
+RevisedGuidelinesNOS07102022.pdf
+1. Latest coloured passport size photograph.
+2. ST certificate issued by the competent authority.
+3. PVTG certificate issued by the competent authority (if applicable).
+4. 10th certificate/marksheet in support of date of birth.
+5. Graduation/Post-Graduation mark sheet (aggregate marks in percentage) or equivalent percentage marks in case of CGPA / Ph.D completion certificate, wherever applicable, along with the conversion sheet of aggregate marks into percentage issued by the Institute/University.
+6. Offer of admission.
+7. Income certificate.
+Source: RevisedGuidelinesNOS07102022.pdf, Page: 7
+
+InstructionManual-NOS-2025-26.pdf
+Information not found in the provided documents.",0.0,False,0.0,False,,,retrieval,model_said_not_found,False,True,,False,0.641,8.09
+What is Aadhaar based Payment?,"Applicants/Students who have entered Aadhaar in their online application correctly and if their Aadhaar is linked to any of their bank account, in such cases the amount of fellowship will be credited to that Aadhaar linked bank account only even if the student has mentioned any other non-Aadhaar linked bank account in her/his online application.",Information not found in the provided documents.,0.0,False,0.0,False,,,retrieval,model_said_not_found,False,True,,False,0.605,6.87
+Is it mandatory to hold a bank account in Canara Bank for availing Fellowship?,Not mandatory. You should have an account in nationalized/accredited bank,"Information not found in the provided documents.
+
+Source: Canarabank-UserManual.pdf, Page: 2",0.0,False,0.0,False,,,retrieval,model_said_not_found,False,True,,False,0.589,8.3
+What is the process of linking of student’s I’d at canara bank portal?,The Process of linking of student’s I’d at canara bank portal as follow: - ❖ Mapping of of student’sdetails at Canara Bank portal by Ministry FAQ_NFST_2020-21 ❖ Linking of students Id along with details by University and submitted for approval to Ministry ❖ Approval of students Id by the Ministry,Information not found in the provided documents.,0.0,False,0.0,False,,,retrieval,unknown_page: 12,False,True,,False,0.761,7.17
+What should I do if Nodal officer/University is unable to link my Id at Canara Bank portal?,"In case your nodal officer/University is unable to link your Id at Canara Bank portal, Kindly request your nodal officer /University. Ministry also send communication to Universities as well as students for linking. Still you face problem you may raise a query with Nodal officer contact number at https://tribal.nic.in/Grievance/. Ministry may contact Nodal officer in this regard.","C:\Users\dprag\OneDrive\Desktop\RAG1\government_rag_modular\data\New folder3h\Canarabank-UserManual.pdf
+1. If linking needs to be done beyond the allowed time parameters, the University or Institution may request an exception in the UGC Portal.
+2. Once the UGC approves the request, the University or Institution will be able to link the Student ID within the time period mentioned in the exception.
+
+Source: Canarabank-UserManual.pdf, Page: 3",0.73,True,0.0,False,,,ok,,False,False,True,False,0.734,10.18
+What is the meaning of “Beneficiary code creation/ account validation pending” as shown in Canara Bank portal?,"Beneficiary code will be generated by PFMS upon linking of ID at the Canara Bank portal by university/Institutes. Subsequently, Ministry will approve the ID. If, the name is different in master data and bank account, the university is required to make correction through option “beneficiary code updation”. This can be done through maker and checker ID of university.","Information not found in the provided documents.
+
+Source: Canarabank-UserManual.pdf, Page: 6",0.0,False,0.0,False,,,retrieval,model_said_not_found,False,True,,False,0.638,6.18
+"How beneficiary code will be generated, if “Beneficiary code rejected, as shown in Canara bank portal?",The beneficiary code will be rejected if IFSC code wrongly entered/ account closed/blocked. The University is required to update valid account no with IFSC code in the portal and get approved by the ministry.,"Information not found in the provided documents.
+
+Source: Canarabank-UserManual.pdf, Page: 6",0.0,False,0.0,False,,,retrieval,model_said_not_found,False,True,,False,0.728,5.25
+What is mode of Payment of Fellowship?,"Payment of fellowship to the selected students will be made on quarterly basis, through the Direct Benefit Transfer system by the Ministry of Tribal Affairs through the accredited bank after approval from the Ministry.","DEPDGuidelines_1.pdf
+1. The fellowship amount will be transferred to the respective bank accounts of the scholars through DBT mode after the payment files of the candidates are digitally signed by the authorized signatory of the NDFDC on PFMS.
+Source: DEPDGuidelines_1.pdf, Page: 17
+
+GuidelinesFellowshipandScholarship2022.pdf
+1. Payment of Fellowship to the selected research scholars will be made on a quarterly basis, through PFMS to the accredited bank in DBT mode upon uploading the documents at the designated Bank portal by the universities and approved by the Ministry.
+Source: GuidelinesFellowshipandScholarship2022.pdf, Page: 12",0.75,True,0.0,False,,,ok,,False,False,True,False,0.589,9.09
+Can I change my bank account details if wrongly mentioned/mismatched in university record/Canara Bank Portal?,"The request letter from University/Institute along with photo copy of passbook should sent to Ministry, after approval from competent authority, the account no may be changed in coordination with Bank. FAQ_NFST_2020-21","Canarabank-UserManual.pdf
+Yes, you can correct the account number and IFSC code if your beneficiary code could not be created because of a wrong account number or IFSC code. You can use the option under Master Data Enhancement, Master Data, Correction BenefCode Rejected, where you can select the scheme, fetch the details of students whose beneficiary code got rejected, click on EDIT, change the IFSC code and/or account number wherever change is required, and click update. This option can be exercised using either Maker or Checker ID.
+Source: Canarabank-UserManual.pdf, Page: 6",0.565,True,0.0,False,,,ok,,False,False,True,False,0.667,6.35
+What is the last date for linking of student’s id at Canara Bank Portal?,"There is no such last date for linking of student’s id at canara bank portal. The students are required to link their id on time for the process of fellowship amount. Delay in linking, delay in payment process.","Information not found in the provided documents.
+
+Source: Canarabank-UserManual.pdf, Page: 2, 3, 21, 22",0.0,False,0.0,False,,,retrieval,model_said_not_found,False,True,,False,0.745,4.36
+What should I do if canara bank show payment generated but the amount has not been credited in my account?,Payment file generation by Canara Bank through PFMS is initial stage after uploading your documents at Canara Bank portal. There are series of procedure/stages followed at different level for releasing the amount to the students.,"Information not found in the provided documents.
+
+Source: Canarabank-UserManual.pdf, Page: 1",0.0,False,0.0,False,,,retrieval,model_said_not_found,False,True,,False,0.615,6.69
+What is the procedure for claiming contingency?,The students are required to submit actual bill of expenditure incurred by him/her to the university on quarterly basis. University will verify your bill and they will enter online at the portal.,"STIPEND_STATICAL_GUIDLLINES.pdf
+
+1. Before approving a contingency claim bill, follow the office order no. DS/2022-23/1009 dated 2nd January, 2023.
+2. The Initial Approving Authority is the Class Teacher, Supervisor or the Convener of the RFAC (whichever is applicable).
+3. All bills must be in the name of the student/research fellow and issued in the appropriate financial year.
+4. Books purchased should have the name of the student/research fellow written on their first page. Identification number/Licence number of electronic items and software should be mentioned in the contingent claim form.
+5. Claim forms for expenses made in a financial year must be submitted by 7th of March if items are purchased between the starting date of the class/tenure to the upcoming March. If items are purchased between 1st April to the end of the semester/tenure, the contingency claim bill must be submitted at the end of the current semester/tenure.
+6. A student can make claims under their contingency grant only when getting a full stipend at that point in time (at the time of submission of bills, the student should be getting a full stipend). If the stipend is restored, the student becomes eligible again for making claims under the contingency grant.
+
+Source: STIPEND_STATICAL_GUIDLLINES.pdf, Page: 5
+
+
+Canarabank-UserManual.pdf
+
+1. The contingency amount is divided by default by the system into 4 monthly slots, namely March, June, September, and December of each year, divided into four equal parts under four quarters.
+2. If a student submits a claim that is different from the amount available in the contingency slot, the University/Institution User may modify the amount accordingly up to the maximum contingency amount payable for the year.
+3. The modification must be done using a MAKER ID through the transaction data entry, contingency modification, and initiate option, and the same must be approved by a University CHECKER ID.
+4. Once the modification is approved, monthly payment confirmation must be done for the modified records.
+5. The system will pay the differential amount if any, and the contingency payable year will be calculated from the date of commencement.
+
+Source: Canarabank-UserManual.pdf, Page: 19",0.641,True,0.0,False,,,ok,,False,False,True,False,0.611,5.82
+"If a student has completed his/her course before or after 5 years, for how long will he /she will get the scholarship?","Total duration for availing fellowship is 2 years for M.Phil, 5 years fro Ph.D, years for M.Phil+Ph.D. Beyond that, the Ministry will not allow to the students to avail fellowship. In case a student has completed his/her course before the duration, he/she will get the fellowship till the final submission of thesis.","C:\Users\dprag\OneDrive\Desktop\RAG1\government_rag_modular\data\New folder1\GuidelinesFellowshipandScholarship2022.pdf
+1. The tenure of scholarship would be 2 years for M.Phil students and 5 years for M.Phil+Ph.D or Ph.D students.
+2. For M.Phil, the duration is 2 years or date of submission of dissertation, whichever is earlier. For M.Phil + Ph.D, the duration is 5 years (2+3 years) or date of submission.
+3. In case a student is selected for fellowship in the 2nd or subsequent year, he will be eligible for the remaining period of the course duration.
+Source: GuidelinesFellowshipandScholarship2022.pdf, Page: 4 and 13
+
+C:\Users\dprag\OneDrive\Desktop\RAG1\government_rag_modular\data\New folder1\AICTE_3039_G.pdf
+Information not found in the provided documents.
+Source: AICTE_3039_G.pdf, Page: 2
+
+C:\Users\dprag\OneDrive\Desktop\RAG1\government_rag_modular\data\New folder1\AICTE_3038_G.pdf
+Information not found in the provided documents.
+Source: AICTE_3038_G.pdf, Page: 2
+
+C:\Users\dprag\OneDrive\Desktop\RAG1\government_rag_modular\data\New folder2\NEC_1234_G.pdf
+Information not found in the provided documents.
+Source: NEC_1234_G.pdf, Page: 7",0.0,False,0.0,False,,,retrieval,model_said_not_found,False,True,,False,0.702,3.67
+Who can apply for National Overseas Scholarship Scheme?,"STstudents fulfilling eligibility criteria of the scheme and currentlypursuingorwishtopursuehigherstudiesabroadforMasters,PhD&Post- Doctoralresearchprogrammes in in top 10 QS World Ranking Universities/Institutions. The guidelinesmaybe seenat https://overseas.tribal.gov.in/.","advertisementenglishnHindi.pdf
+1. ST candidates selected for pursuing higher studies abroad at the Masters level, Ph.D and Post-Doctoral Research programmes can apply.
+Source: advertisementenglishnHindi.pdf, Page: 1
+
+202505150247488056377Advertisement.pdf
+1. ST candidates selected for pursuing higher studies abroad at the Masters level, Ph.D. and Post-Doctoral Research programmes can apply.
+Source: 202505150247488056377Advertisement.pdf, Page: 1
+
+202306160518581971477NOSADVERTISEMENT-English16062023.pdf
+1. ST candidates selected for pursuing higher studies abroad at the Masters level, Ph.D and Post-Doctoral Research programmes can apply.
+Source: 202306160518581971477NOSADVERTISEMENT-English16062023.pdf, Page: 1
+
+RevisedGuidelinesNOS07102022.pdf
+1. Meritorious Schedule Tribe (ST) students for pursuing higher education in reputed Institutes/Universities abroad can apply.
+2. Specifically, 17 awards are for ST candidates and 03 awards are for Particularly Vulnerable Tribal Groups (PVTG).
+Source: RevisedGuidelinesNOS07102022.pdf, Page: 3
+
+Instruction-manual-NOS-202324.pdf
+1. Applicants belonging to ST who have passed the Graduation, Post-Graduation, or Ph.D examination are eligible.
+2. Applicants should get admission for regular and full time Master's, Ph.D, or Post Doctoral Courses in accredited University Institutions abroad after selection.
+3. Age criteria: For Master Degree, age should not be more than 32 years as on 01.07.2023; for PhD, age should not be more than 35 years as on 01.07.2023; for Post Doctoral Research, age should not be more than 38 years as on 01.07.2023.
+Source: Instruction-manual-NOS-202324.pdf, Page: 3",0.812,True,0.0,False,,,ok,,False,False,True,False,0.71,7.86
+How many slots/awards available for National Overseas Scholarship?,Thereare20slots/awards availableforNationalOverseasScholarshipforeachyear asfollows: S.No. Category No. ofAwa rd ScheduledTribes ParticularlyVulnerableTribalGroups( PVTG) Total,"1. Document: 202505150247488056377Advertisement.pdf
+Number of slots for scholarship: 20
+Source: 202505150247488056377Advertisement.pdf, Page: 1
+
+2. Document: advertisementenglishnHindi.pdf
+Number of slots for scholarship: 20
+Source: advertisementenglishnHindi.pdf, Page: 1
+
+3. Document: 202306160518581971477NOSADVERTISEMENT-English16062023.pdf
+Number of slots for scholarship: 20
+Source: 202306160518581971477NOSADVERTISEMENT-English16062023.pdf, Page: 1
+
+4. Document: RevisedGuidelinesNOS07102022.pdf
+Number of awards every year: 20 awards, consisting of 17 for ST candidates and 3 for Particularly Vulnerable Tribal Groups (PVTG).
+Source: RevisedGuidelinesNOS07102022.pdf, Page: 3",0.707,True,0.0,False,,,ok,,False,False,True,False,0.685,8.6
+What are the criteria for availing scholarship?,"Eligibility conditions to apply for ""National Overseas Scholarship for ST Students"" are given below: Criteria Master Degree Ph.D Post-doctoral Age as on 1st July of selection year Marks * % in Bachelor‟s Degree % in Master Degree level % in Master Degree level with Ph..D completion certificate) Income criteria Family income from not exceeding Rs.6,00,000/- (six lakh) from all sources per annum One child in a family and one time assistance Not more than one child of the same parents will be eligible *The criteria of marks obtained in Bachelor‟s/Master‟s Degree will not apply to those candidates who have already obtained admission in top 1,000 Institutes as per QS world ranking of the latest available report.","NEC_1234_G.pdf
+1. Scholarship is admissible to students who get admission in Diploma, Degree, Post-graduate or registration in M.Phil. / Ph.D courses of any institute recognised by the Government.
+2. Grant of scholarship for M.Phil and Ph.D would be after the registration of the students with the University.
+3. The scholarship is not available for internship or any practical training.
+4. The parent or guardian's annual income from all sources must not exceed Rs 8.0 lakh, and an income certificate issued by the competent authority must be furnished.
+5. Students must fulfill specific qualifying examination criteria with a minimum of 60% marks in aggregate depending on the level:
+- Diploma: HSLC/HSSLC/Secondary School Leaving /Senior Secondary Leaving certificate examination from a recognised State/Central board.
+- Degree: HSSLC/Senior Secondary Leaving certificate examination from a recognised State/Central board.
+- Post Graduate: Degree (BA/BSc/BE/B in Tech/MBBS/LLB/BCA/BBA etc.) of any recognized Institute/ University in any discipline.
+- M.Phil./Ph.D: PG degree from any recognized University.
+Source: NEC_1234_G.pdf, Page: 8
+
+Source: NEC_1234_G.pdf, Page: 2
+
+
+NEC_1234_F.pdf
+1. The parent or guardian's annual income from all sources shall not exceed Rs 8.0 lakh.
+2. The scholarship is purely on merit basis, where the merit list is prepared exclusively on the basis of marks obtained by the candidate in the qualifying exams and complying with the level-of-course-wise slots allotted to the states.
+3. Selection for M.Phil and Ph.D is done on the basis of the topic of research or synopsis which has relevance to the problems or issues related to the NE Region.
+Source: NEC_1234_F.pdf, Page: 1
+
+
+NMMSSGuidelines.pdf
+An awardee is eligible for the scholarship provided he or she:
+1. Maintains good conduct as certified by the Head of the college or Institution.
+2. Continues studies as a regular student in a Government, government aided, or Local Body school.
+3. Takes up studies in approved courses.
+4. Does not absent himself or herself without proper leave.
+5. Takes up studies on a whole time basis.
+Source: NMMSSGuidelines.pdf, Page: 6
+
+
+RevisedGuidelinesNOS07102022.pdf
+Conditions of eligibility regarding qualification, marks, educational qualification, and maximum age as on 1st July of the selection year are:
+1. Post-Doctoral Research: 55% marks or equivalent grade in relevant Master's Degree with awarded Ph.D., and a maximum age of 38 years.
+2. Ph.D: 55% marks or equivalent grade in relevant Master's Degree, and a maximum age of 35 years.
+3. Master's Degree: 55% marks or equivalent grade in relevant Master's Degree, and a maximum age of 32 years.
+Source: RevisedGuidelinesNOS07102022.pdf, Page: 3",0.791,True,0.0,False,,,ok,,False,False,True,False,0.717,9.01
+Is age criteria is applicable for those candidates who have already taken admission in Institutes abroad?,"Yes, It is required. as mentioned in the table of Q.No.3",Information not found in the provided documents.,0.0,False,0.0,False,,,retrieval,model_said_not_found,False,True,,False,0.654,2.72
+Is 55 % marks compulsory for those candidates who have already taken admission in Institutes abroad?,"The criteria of marks obtained in Bachelor‟s/Master‟s Degree will not apply to those candidates who have already obtained admission in top 1,000 Institutes as QS world ranking of the latest available report.","DEPDGuidelines_1.pdf
+1. Candidates already pursuing Masters degree or PhD or having completed Masters/PhD from Institute/College/University abroad by availing benefits of the Scholarship Scheme implemented by any of the Ministries/Departments of the Central Government/State Government/other agency/own funds, are not eligible to apply for the scheme.
+Source: DEPDGuidelines_1.pdf, Page: 17
+
+For all other documents, the answer is:
+Information not found in the provided documents.",0.0,False,0.0,False,,,retrieval,model_said_not_found,False,True,,False,0.618,2.56
+Who can issue the income certificate?,The Income certificate should be issued by competent authority/designated officer of StateGovernment.,"C:\Users\dprag\OneDrive\Desktop\RAG1\government_rag_modular\data\New folder1\guidelines-Pre-matric-17-Oct-2022.pdf
+1. The State or UT may specify the competent authority to issue the family income certificate, and self-declarations or affidavits of self-assessment of income are not acceptable.
+Source: guidelines-Pre-matric-17-Oct-2022.pdf, Page: 7
+
+C:\Users\dprag\OneDrive\Desktop\RAG1\government_rag_modular\data\New folder3h\Instruction-manual-NOS-202324.pdf
+1. The income certificate must be issued by the competent authority not below the rank of Tehsildar, or any other authority authorized by the respective State or UT.
+Source: Instruction-manual-NOS-202324.pdf, Page: 2
+
+C:\Users\dprag\OneDrive\Desktop\RAG1\government_rag_modular\data\New folder3h\InstructionManual-NOS-2025-26.pdf
+1. The income certificate should be issued by a competent authority not below the rank of Tehsildar or any other authority designated by the State Government or UT Administration.
+Source: InstructionManual-NOS-2025-26.pdf, Page: 2, 17
+
+C:\Users\dprag\OneDrive\Desktop\RAG project\New folder (2)\file_62.pdf
+Information not found in the provided documents.",0.0,False,0.0,False,,,retrieval,model_said_not_found,False,True,,False,0.63,3.53
+Who are the family members included for income criteria?,"The combined income of father and mother if both are working. In case of only one parent is alive, the income of that parent shall be taken into account for considering total family income. In case father is alive but father‟s income is not reported, the reason for not reporting income of the father is to be submitted in the declaration.","GuidelinesFellowshipandScholarship2022.pdf
+1. Father and mother are included for computing total family income.
+2. In case only one parent is alive, the income of that parent is taken into account.
+3. In the case of married candidates, the spousal income is added to compute total family income.
+4. Other family members, siblings, or members other than father and mother who are earning members are not included in computing total family income.
+5. In the case of an orphan supported by a guardian, income criteria shall not apply.
+Source: GuidelinesFellowshipandScholarship2022.pdf, Page: 18
+
+tribalfellowshipguideline.pdf
+1. Father and mother are included in computing total family income.
+2. In case only one parent is alive, the income of that parent is taken into account.
+3. In case of married candidates, the spousal income is also added to compute total family income.
+4. Any other family member other than father and mother, or other siblings who are earning members, shall not be included in computing total family income.
+5. In the case of an orphan supported by a guardian, income criteria shall not apply.
+Source: tribalfellowshipguideline.pdf, Page: 5
+
+RevisedGuidelinesNOS07102022.pdf
+1. Where both father and mother are working, the combined income of both of them is taken into account.
+2. In case only one parent is alive, the income of that parent is taken into account.
+3. Any other member of the family other than father and mother who is an earning member, including other siblings, shall not have their income included.
+4. In the case of an orphan supported by a guardian, income criteria shall not apply.
+Source: RevisedGuidelinesNOS07102022.pdf, Page: 4
+
+guidelines-Pre-matric-17-Oct-2022.pdf
+1. Where both father and mother are working, the combined income of both of them is taken into account.
+2. In case only one parent is alive, the income of that parent is taken into account.
+3. Any other member of the family other than father and mother, or any other sibling or family member who is an earning member, shall not be included in computing total family income.
+Source: guidelines-Pre-matric-17-Oct-2022.pdf, Page: 3
+
+EDUGuidelines.pdf
+1. So long as either of the parents is alive, only the income of the parents is taken into account, and no other member's income is included even if they are earning.
+2. Only in the case where both parents have died, the income of the guardian who is supporting the student in his or her studies has to be taken.
+Source: EDUGuidelines.pdf, Page: 2",0.773,True,0.0,False,,,ok,,False,False,True,False,0.676,9.66
+Is income for guardian is included in the family income in case of orphan?,Income criteria shall not be applicable in case of orphan.,"guidelines-Pre-matric-17-Oct-2022.pdf
+1. In the case of an orphan, supported by a guardian, income criteria shall not apply.
+Source: guidelines-Pre-matric-17-Oct-2022.pdf, Page: 4
+
+GuidelinesFellowshipandScholarship2022.pdf
+1. In the case of an orphan, supported by a guardian, income criteria shall not apply.
+Source: GuidelinesFellowshipandScholarship2022.pdf, Page: 18
+
+tribalfellowshipguideline.pdf
+1. In the case of an orphan, supported by a guardian, income criteria shall not apply.
+Source: tribalfellowshipguideline.pdf, Page: 5
+
+EDUGuidelines.pdf
+1. Only in the case where both the parents have died, the income of the guardian who is supporting the student in his/her studies has to be taken.
+Source: EDUGuidelines.pdf, Page: 2
+
+RevisedGuidelinesNOS07102022.pdf
+1. In case of an orphan, supported by a guardian, income criteria shall not apply.
+Source: RevisedGuidelinesNOS07102022.pdf, Page: 4",0.724,True,0.0,False,,,ok,,False,False,True,False,0.655,4.27
+What are the fields of studies under this scheme?,"Thefollowing fieldofstudyarecovered underthisscheme:- S.No. Field of Study Number ofslots Pure/AppliedScience Engineering/Technology/ Mathematics [STEM] Management,Economic, Finance, Law Agriculture& Medicine HumanitiesandSocialScience Total",Information not found in the provided documents.,0.0,False,0.0,False,,,retrieval,model_said_not_found,False,True,,False,0.634,2.41
+How can I apply online for scholarship?,"A student applying for fellowship for the first time need to“Register”ontheNationaloverseasPortalathttps://overseas.tribal.gov.inasafreshapplica ntbyprovidingaccurateandauthenticatedinformationinthe ""Student Registration Form"". After successful login, a text message willbesent to the registered e-mailconfirming registration.","Document: RevisedGuidelinesNOS07102022.pdf
+1. Applications are invited online through the National Overseas Scholarship Portal (NOSP) developed by the Ministry at overseas.tribal.gov.in.
+2. Candidates are required to register themselves on the NOSP and on Digi Locker before filling the application form online.
+3. Aadhaar is mandatory for registration on the portal, and documents must be uploaded through Digi Locker.
+Source: RevisedGuidelinesNOS07102022.pdf, Page: 7
+
+Document: NEC_1234_F.pdf
+1. You can apply online by visiting the website through the URL www.scholarships.gov.in, or through the mobile app of NSP or UMANG.
+2. Click on the particular scheme displaying in the on-boarded schemes section on the home page to apply.
+Source: NEC_1234_F.pdf, Page: 2
+
+Document: NSP_ORApplicationUsermanul_V2.2.pdf
+1. Browse the NSP Application Portal URL and log in using your credentials (such as Login with Aadhaar, Login with APAAR, or Login with OTR by selecting Students and Login under Apply For Scholarship).
+2. Navigate to the Basic Information section and provide the required details in General Information, Academic Details, and Application Specific Details.
+3. After submitting the Basic Information, go to the Apply Fresh menu, read the guidelines, accept the terms by clicking on the checkboxes, and click on continue.
+Source: NSP_ORApplicationUsermanul_V2.2.pdf, Page: 1
+
+Document: MORB_GL.pdf
+1. Online submission of the application form can be done through http://www.scholarships.gov.in/ from any internet access point.
+2. Ensure all details provided are correct before final submission, as there is no provision to edit details thereafter.
+Source: MORB_GL.pdf, Page: 14
+
+Document: tribalfellowshipguideline.pdf
+1. Students will submit the application online through the National Scholarship Portal (www.scholarships.gov.in/) after taking admission for various courses in the notified Universities/Institutes.
+Source: tribalfellowshipguideline.pdf, Page: 6",0.773,True,0.0,False,,,ok,,False,False,True,False,0.728,6.56
+"What should student do, in case of any problem while filling the application form in Google Chrome?","If students face any problem while filling the application form in GoogleChrome, it is advised to use internet explorer. In caseof any issue/error ininternet explorer as well, it is advised to clear browser history /cache and tryagain.","INSTRUCTIONS MANNUAL FOR FILLING  NFST APPLICATION FORM.pdf
+1. If research scholars face any problem while filling the application form in Google Chrome or any other browser, scholars are advised to use internet explorer. In case any issue/error in internet explorer as well, they are advised to clear browser history /cache and try again.
+Source: INSTRUCTIONS MANNUAL FOR FILLING  NFST APPLICATION FORM.pdf, Page: 1
+
+InstrctionManuaNOSApplication2026-27.pdf
+1. In case of any problem while filling the application form in Google Chrome or any other browser, it is advised to use Microsoft edge. In case any issue/error in internet explorer as well, it is advised to clear browser history/cache and try again.
+Source: InstrctionManuaNOSApplication2026-27.pdf, Page: 1
+
+InstructionManual-NOS-2025-26.pdf
+1. In case of any problem while filling the application form in Google Chrome or any other browser, it is advised to use Microsoft edge. In case any issue/error in internet explorer as well, it is advised to clear browser history/cache and try again.
+Source: InstructionManual-NOS-2025-26.pdf, Page: 1
+
+Instruction-manual-NOS-202324.pdf
+1. In case of any problem while filling the application form in Google Chrome or any other browser, it is advised to use internet explorer. In case any issue/error in internet explorer as well, it is advised to clear browser history/cache and try again.
+Source: Instruction-manual-NOS-202324.pdf, Page: 1
+
+NFTSInstructionmanualEnglish2024-25.pdf
+1. In case of any problem while filling the application form in Google Chrome or any other browser, it is advised to use internet explorer. In case of any issue/error in internet explorer as well, it is advised to clear the browser history/cache and try again.
+Source: NFTSInstructionmanualEnglish2024-25.pdf, Page: 1",0.829,True,0.0,False,,,ok,,False,False,True,False,0.675,6.28
+What should I do if I face some technical issue while applying for scholarship on overseas portal?,Youmayregisteronlinequeryathttps://tribal.nic.in/Grievance/,"C:\Users\dprag\OneDrive\Desktop\RAG1\government_rag_modular\data\New folder7\RevisedGuidelinesNOS07102022.pdf
+1. Applicants are advised to go through the Instruction Manual before applying online.
+2. For any query, applicants may refer to the helpdesk module given on the portal.
+Source: RevisedGuidelinesNOS07102022.pdf, Page: 7",0.52,True,0.0,False,,,ok,,False,False,True,False,0.713,5.18
+Can I change my mobile number and email id after submission of application form?,"No,youcannot changeyour mobilenumber andemail id after submittingthe applicationform. You need to maintain the same mobile number and email-idthroughout the selection process. However, in case your contact details change dueto unavoidable reasons, the same may be communicated through online queryat https://tribal.nic.in/Grievance/with theMinistryattheearliest.","C:\Users\dprag\OneDrive\Desktop\RAG1\government_rag_modular\data\New folder7\NSP_ORApplicationUsermanul_V2.2.pdf
+1. You can update your contact information, such as your mobile number and email ID, via the My Profile section or OTR (One-Time Registration). Contact details cannot be edited directly on the application form.
+2. If you have already applied for a scholarship or incentive, you will not be able to change your basic information unless you withdraw your application. All of your applications must be withdrawn to make these changes.
+Source: NSP_ORApplicationUsermanul_V2.2.pdf, Page: 4
+
+C:\Users\dprag\OneDrive\Desktop\RAG1\government_rag_modular\data\New folder3h\Canarabank-UserManual.pdf
+1. Modification or updation of a student's email ID, mobile number, and address can be initiated by a University or institution user and must be approved by a UGC user.
+Source: Canarabank-UserManual.pdf, Page: 8
+
+C:\Users\dprag\OneDrive\Desktop\RAG1\government_rag_modular\data\New folder2\NFTSInstructionmanualEnglish2024-25.pdf
+1. Once the registration process is completed, the basic information, which includes the email ID and mobile number, cannot be changed.
+Source: NFTSInstructionmanualEnglish2024-25.pdf, Page: 5",0.727,True,0.0,False,,,ok,,False,False,True,False,0.735,6.38
+Can I change my domicile state/district name after submission of application form?,"No, you cannot change your domicile state/district name after submission ofapplicationform.","Instruction-manual-NOS-202324.pdf
+Once the registration process is completed, the basic information can't be changed, which includes the domicile State and district.
+Source: Instruction-manual-NOS-202324.pdf, Page: 5
+
+For the other documents, information not found in the provided documents.",0.0,False,0.0,False,,,retrieval,model_said_not_found,False,True,,False,0.606,4.64
+What documents are needed to be uploaded on Portal while applying for Scholarship?,"ThefollowingdocumentsarerequiredtobeuploadedforFreshapplicationsunder theNationalOverseasScholarship: a) DOBCertificate(10th/matriculationcertificate. No other certificate is admissible) b) STCertificate c) PVTGCertificate d) ProfilePhoto(Size:-50KB-100KB) e) Annual FamilyIncomeCertificate. In case father is alive but father‟s income is not reported, the reason for not reporting income of the father is to be submitted in the declaration. f) MasterDegree(Marksheet)andConversionfactorformulaefromCGPAto equivalent percentagemark (ifCGPA) g) Ph.D(Marksheet)andConversionfactorformulaefromCGPAtoequivalentperc ent ofmark (ifCGPA) h) CopyofTaxAssessment(ITR/Form 16),ifapplicable","Document: tribalfellowshipguideline.pdf
+1. ST Certificate or PVTG Certificate (required for fresh candidates, not required for renewal candidates; caste certificate is required to be signed and stamped by competent authority)
+2. Income Certificate (required for fresh candidates for the financial year of the preceding year issued by designated authority by the respective state or UT, not required for renewal candidates)
+3. Fee Receipt (required for both fresh and renewal candidates)
+4. Scanned copy of the bank passbook (required for both fresh and renewal candidates)
+5. Mark sheet or Certificate of qualifying examination (required for both fresh and renewal candidates)
+Source: tribalfellowshipguideline.pdf, Page: 6
+
+Document: GuidelinesFellowshipandScholarship2022.pdf
+1. ST Certificate or PVTG Certificate (required for fresh candidates, not required for renewal candidates; caste certificate is required to be signed and stamped by competent authority)
+2. Income Certificate (required for fresh candidates for the financial year of the preceding year issued by designated authority by the respective state or UT, not required for renewal candidates)
+3. Fee Receipt (required for both fresh and renewal candidates)
+4. Scanned copy of the bank passbook (required for both fresh and renewal candidates)
+5. Mark sheet or Certificate of qualifying examination (required for both fresh and renewal candidates)
+Source: GuidelinesFellowshipandScholarship2022.pdf, Page: 19
+
+Document: MORB_GL.pdf
+1. Documents in support of claims such as income, mark sheets, bank account details, category, and caste certificate are enabled for uploading.
+Source: MORB_GL.pdf, Page: 13
+
+Document: DEPDGuidelines_1.pdf
+1. Photograph
+2. Proof of age
+3. Disability certificate
+4. Income certificate of the parent
+5. Tuition fees receipt
+6. Last academic qualification certificate
+Source: DEPDGuidelines_1.pdf, Page: 10
+
+Document: RevisedGuidelinesNOS07102022.pdf
+1. Documents are required to be uploaded through Digi Locker during registration on the National Overseas Scholarship Portal.
+Source: RevisedGuidelinesNOS07102022.pdf, Page: 7",0.737,True,0.0,False,,,ok,,False,False,True,False,0.713,7.13
+What should be the Type and size of the documents and profile photo to be uploaded?,All documents should be uploaded in pdf file and the Profile Photo should be in .jpg/.jpeg format(Size: - 50 KB-100KB).,"C:\Users\dprag\OneDrive\Desktop\RAG1\government_rag_modular\data\New folder3h\InstrctionManuaNOSApplication2026-27.pdf
+1. Profile photo must be in JPEG or JPG format and sized between 50 KB and 100 KB.
+2. All other valid documents required must be kept ready in a PDF file.
+Source: InstrctionManuaNOSApplication2026-27.pdf, Page: 1
+
+C:\Users\dprag\OneDrive\Desktop\RAG1\government_rag_modular\data\New folder3h\InstructionManual-NOS-2025-26.pdf
+1. Profile photo must be in JPEG or JPG format and sized between 50 KB and 100 KB.
+2. All other valid documents required must be kept ready in a PDF file.
+Source: InstructionManual-NOS-2025-26.pdf, Page: 1
+
+C:\Users\dprag\OneDrive\Desktop\RAG1\government_rag_modular\data\New folder2\NFTSInstructionmanualEnglish2024-25.pdf
+1. Profile photo should be in JPG/JPEG format.
+2. Other documents must be uploaded as a PDF file.
+Source: NFTSInstructionmanualEnglish2024-25.pdf, Page: 1
+
+C:\Users\dprag\OneDrive\Desktop\RAG1\government_rag_modular\data\New folder3h\DigiLocker-User-Manual_NOS.pdf
+Information not found in the provided documents.
+Source: DigiLocker-User-Manual_NOS.pdf, Page: 13
+
+C:\Users\dprag\OneDrive\Desktop\RAG1\government_rag_modular\data\New folder7\RevisedGuidelinesNOS07102022.pdf
+Information not found in the provided documents.
+Source: RevisedGuidelinesNOS07102022.pdf, Page: 7",0.0,False,0.0,False,,,retrieval,model_said_not_found,False,True,,False,0.649,6.01
+Can I edit the information already saved and upto what time?,You can edit information till you „Submit‟ the application finally.,"C:\Users\dprag\OneDrive\Desktop\RAG1\government_rag_modular\data\New folder7\NEC_1234_F.pdf
+All the information can be edited until the closure of the application form. After final submission, the application is forwarded to the next level and cannot be edited by the applicant. However, the software provides a facility at the level of the Institute and State to edit and correct limited information. Additionally, the online application can be filled in as many sittings as wished until final satisfaction and submission.
+Source: NEC_1234_F.pdf, Page: 3
+
+C:\Users\dprag\OneDrive\Desktop\RAG1\government_rag_modular\data\New folder3h\INSTRUCTIONS MANNUAL FOR FILLING  NFST APPLICATION FORM.pdf
+Applicants can resume the application form in edit mode by clicking the Save As Draft button whenever required. Once the application is submitted successfully by clicking the Submit button, any information cannot be updated or edited.
+Source: INSTRUCTIONS MANNUAL FOR FILLING  NFST APPLICATION FORM.pdf, Page: 18
+
+For ClarificationsrelatingtoClauses.PDF and ClarificationsrelatingtoClauses_2.pdf, information not found in the provided documents.",0.0,False,0.0,False,,,retrieval,model_said_not_found,False,True,,False,0.632,3.2
+Which fields I can edit before final submission of application? 5,"-Youcaneditalldetailsexcept“Registration Details”. It maybenoted that onceyou „finally submit‟ your application, it will be forwarded to the next level and after thatyoucannotedit the application further.","C:\Users\dprag\OneDrive\Desktop\RAG1\government_rag_modular\data\New folder7\NEC_1234_F.pdf
+All the information can be edited till the closure of the application form. After final submission, the application cannot be edited.
+Source: NEC_1234_F.pdf, Page: 3
+
+C:\Users\dprag\OneDrive\Desktop\RAG1\government_rag_modular\data\New folder3h\INSTRUCTIONS MANNUAL FOR FILLING  NFST APPLICATION FORM.pdf
+Information cannot be updated or edited if the application is submitted successfully.
+Source: INSTRUCTIONS MANNUAL FOR FILLING  NFST APPLICATION FORM.pdf, Page: 18
+
+C:\Users\dprag\OneDrive\Desktop\RAG1\government_rag_modular\data\New folder3h\Instruction-manual-NOS-202324.pdf
+Any information cannot be updated or edited if the application is submitted successfully.
+Source: Instruction-manual-NOS-202324.pdf, Page: 19
+
+C:\Users\dprag\OneDrive\Desktop\RAG1\government_rag_modular\data\New folder7\NSP_ORApplicationUsermanul_V2.2.pdf
+Information not found in the provided documents.",0.0,False,0.0,False,,,retrieval,model_said_not_found,False,True,,False,0.707,4.82
+Which fields in the application form are mandatory?,-Fieldsprovidedwithblackasterisk(*)markaremandatory.,"Document: NEC_1234_F.pdf
+1. Fields provided with a red asterisk mark are mandatory fields.
+Source: NEC_1234_F.pdf, Page: 3
+
+Document: NSP_SOP.pdf
+1. Fields marked with an asterisk are mandatory.
+Source: NSP_SOP.pdf, Page: 6",0.617,True,0.0,False,,,ok,,False,False,True,False,0.628,7.19
+Do I have to fill up the online application in one sitting?,"No, you can fill up the online application in as many sittings by clicking „SaveDraft‟button,untilyouaresatisfiedthatyouhaveenteredalldesirablefieldscorrectly. The software provides auto save facility to save your application at everystageuntil you click on„Submit‟ buttonfinally.","InstructionManual-NOS-2025-26.pdf:
+Information not found in the provided documents.
+Source: InstructionManual-NOS-2025-26.pdf, Page: 1
+
+InstrctionManuaNOSApplication2026-27.pdf:
+Information not found in the provided documents.
+Source: InstrctionManuaNOSApplication2026-27.pdf, Page: 1
+
+Instruction-manual-NOS-202324.pdf:
+Information not found in the provided documents.
+Source: Instruction-manual-NOS-202324.pdf, Page: 1
+
+INSTRUCTIONS MANNUAL FOR FILLING  NFST APPLICATION FORM.pdf:
+Information not found in the provided documents.
+Source: INSTRUCTIONS MANNUAL FOR FILLING  NFST APPLICATION FORM.pdf, Page: 1
+
+NEC_1234_F.pdf:
+No. You can fill up the online application in as many sittings as you wish, until you are satisfied that you have entered all desirable fields correctly. The software provides facility to save your application at every stage.
+Source: NEC_1234_F.pdf, Page: 3",0.0,False,0.0,False,,,retrieval,model_said_not_found,False,True,,False,0.65,5.01
+What should I do if I forget my password?,"Theprocessofre-setofthepasswordisgivenasbelow:  Studentlogin->ForgotPassword  Enterthemobilenumber andclick onthesubmitbutton.  EnterOTPreceivedonmobileNumberandenternewpassword,  Clickthesubmitbutton.",Information not found in the provided documents.,0.0,False,0.0,False,,,retrieval,model_said_not_found,False,True,,False,0.667,4.29
+How can I check my result?,"After login, enter valid Award no and Password to check the status.Yourapplication status shows as “Pending” or “submitted” under the option „Check YourStatus’.","Guidelines_ISHAN UDAY_2324.pdf
+1. The candidates shall be able to check their result on the National Scholarship Portal by using their User ID and Password generated at the time of filing online application.
+2. The results shall also be uploaded on UGC website at www.ugc.ac.in/notices.
+Source: Guidelines_ISHAN UDAY_2324.pdf, Page: 2
+
+Guidelines_NATIONAL_SCHOLARSHIP_FOR_POSTGRADUATE_STUDIES_UGC_2324.pdf
+1. The candidates shall be able to check their result on the National Scholarship Portal by using their User ID and Password generated at the time of filing online application.
+2. The results shall also be uploaded on UGC website at www.ugc.ac.in/notices.
+Source: Guidelines_NATIONAL_SCHOLARSHIP_FOR_POSTGRADUATE_STUDIES_UGC_2324.pdf, Page: 4
+
+NEC_1234_F.pdf
+1. Student can check the status of Online Application by logging in using his/her Permanent id and Date Of Birth and open the link Check your Status.
+Source: NEC_1234_F.pdf, Page: 5",0.644,True,0.0,False,,,ok,,False,False,True,False,0.599,10.43
+What to do after getting admission and obtaining Visa?,"After obtaining admission in the foreign educationalInstitution and appropriate visa, the candidate is required to intimate thesame to this Ministry. After verification of admission letter and visa and otherrequisitedocuments,thisMinistrywillissuethe'confirmedawardletter'tothecandidate.","DEPDGuidelines_1.pdf
+1. Selected candidates are required to furnish all such documents and enter into such agreements as shall be decided by the Government of India from time to time before their departure.
+2. The selected candidate is required to execute a surety bond on the non-judicial stamp paper before a notary public with two sureties separately for Rs.50,000/-, and also solvency certificate separately for the same amount stating that persons are possessing property/wealth for a minimum amount of Rs. 50,000/-.
+Source: DEPDGuidelines_1.pdf, Page: 22
+
+Information not found in the provided documents for the other schemes.",0.593,True,0.0,False,,,ok,,False,False,True,False,0.614,10.85
+What are the documents required to be submitted to Ministry to get confirmation award letter? 6,"The following documents are required to be submitted on issue of provisional award letter to the student Sl. No. Details For candidates already taken admission For students with Offer of admission letter For students who have selected through personal Interview i Antecedent form Applicable Applicable, verification is required from State Govt/UT Administration Applicable, verification is required from State Govt/UT Administration ii Health certificate Not applicable Applicable Applicable iii Copy of Passport Applicable Applicable Applicable iv Copy of Visa Applicable Applicable Applicable v Verification report for caste, income certificate, from State Govt./UT Admiration Applicable Applicable Applicable vi Joining report Applicable Submit after joining Submit after joining","Information not found in the provided documents.
+
+Source: DEPDGuidelines_1.pdf, Page: 21",0.0,False,0.0,False,,,retrieval,model_said_not_found,False,True,,False,0.666,3.41
+what is the time period within which candidate need to join the course after obtaining provisional award letter?,"A selected candidate is required to join within 6 months which may be extended up to 2 yearsfrom the date of provisional award letter.Onexpiryofthisspecifiedperiod,the award automaticallygetscancelled. This clause is not applicable to those applicants who have already got admission.","GuidelinesFellowshipandScholarship2022.pdf
+1. The provisionally selected research scholar must submit the joining report to the Ministry within 1 month from the date of issue of the provisional award letter.
+Source: GuidelinesFellowshipandScholarship2022.pdf, Page: 10
+
+DEPDGuidelines_1.pdf
+1. The finally selected candidates are required to obtain admission and join the course, university, or institution abroad as per the award letter within three years from the date of the award letter.
+Source: DEPDGuidelines_1.pdf, Page: 22
+
+RevisedGuidelinesNOS07102022.pdf
+1. Selected candidates are required to secure admission and join in one of the top 1,000 ranked foreign Institutes/Universities abroad within 2 years from the date of communication of selection.
+Source: RevisedGuidelinesNOS07102022.pdf, Page: 9",0.736,True,0.0,False,,,ok,,False,False,True,False,0.679,9.14
+Can I change the course after receiving provisional award letter?,"No, change the course/course is not allowed after issue of provisional award letter.",Information not found in the provided documents.,0.0,False,0.0,False,,,retrieval,model_said_not_found,False,True,,False,0.656,2.55
+Who will book the ticket and what are the procedures to reach the university abroad?,Student has to submit/upload the ticket booking request form at Ministry portal before one month of departure.,"DEPDGuidelines_1.pdf
+1. The awardees shall be allowed to purchase air tickets from the nearest Airport to Hometown in India, with the condition that the ticket purchased must be of economy class/shortest route on the date of booking.
+2. The choice of the travel agent for booking of the ticket is left open to the awardees.
+3. Return tickets will be booked by the Indian Mission abroad.
+4. The awardees will claim reimbursement of airfare from the respective Indian Mission abroad after joining the University and providing a joining report from the University.
+5. For local travel, second class railway fare from the port of disembarkation to the place of study and back will be reimbursed.
+6. In case of far-flung places not connected by rail, bus fare from the place of residence to the nearest railway station, actual charges of crossing by ferry, air fare to the nearest rail-cum-air station, and/or second class railway fare by the shortest route to the port of embarkation and back will be reimbursed by the Indian Mission abroad.
+
+Source: DEPDGuidelines_1.pdf, Page: 20",0.616,True,0.0,False,,,ok,,False,False,True,False,0.651,10.3
+How much Financial Assistance is available? 7,Refer para 3.2 of the guidelines.,"C:\Users\dprag\OneDrive\Desktop\RAG1\government_rag_modular\data\New folder3h\Labour_Ministry_Guidelines_of_scholarhsips schemes.pdf
+1. Class I to IV (for purchase of dress/books etc.): 1000 per annum
+2. Class V to VIII: 1500 per annum
+3. Class IX: 2000 per annum
+4. Class X: 2000 per annum
+5. Class XI to XII: 3000 per annum
+6. ITI: 6000 per annum
+7. Polytechnic: 6000 per annum
+8. Degree Courses (Undergraduate (UG) and Postgraduate (PG) academic Courses): 6000 per annum
+9. Professional Courses (such as Engineering, Medical, Management, Law, etc.): 25000 per annum
+Source: Labour_Ministry_Guidelines_of_scholarhsips schemes.pdf, Page: 3
+
+C:\Users\dprag\OneDrive\Desktop\RAG1\government_rag_modular\data\New folder3h\DEPDGuidelines_1.pdf
+1. Reimbursement of admission fee and tuition fee: Up to Rs. 1.40 lakh per annum (subject to actual amount).
+2. Miscellaneous fee (Library fee, Sports fee, Medical examination and such other fee): Up to Rs 10,000/- per annum (subject to actual amount).
+3. Maintenance Allowance: Rs. 1,200/- per month for hostellers, Rs. 650/- per month for day-scholars.
+4. Disability Allowances: Rs. 4,000/- per annum for Visual Impairment/ Intellectual Disabilities; Rs 2000/- per annum for All other types of disabilities.
+5. Book allowance: Rs. 1,500/- per annum.
+6. Top Class Education Scholarship for Student with Benchmark Disabilities: Tuition fee as per actual; Maintenance allowance for US and other countries US$15400 per annum; Maintenance allowance for U.K GBP 9900 per annum.
+Source: DEPDGuidelines_1.pdf, Page: 8 and 18
+
+C:\Users\dprag\OneDrive\Desktop\RAG1\government_rag_modular\data\New folder3h\EDUPostMatricScholarshipPMSforSTstudents230513.pdf
+1. Central assistance for setting up of Book Banks for the purchase of prescribed text books limited to the indicated amount or actual cost of a set, whichever is less.
+2. For storage of books and contingencies etc. (such as transportation): Rs 2000/- or actual cost whichever is less.
+3. 5% of the grant may be earmarked for expenses on binding, stitching etc.
+Source: EDUPostMatricScholarshipPMSforSTstudents230513.pdf, Page: 21
+
+C:\Users\dprag\OneDrive\Desktop\RAG1\government_rag_modular\data\New folder1\guidelines-Pre-matric-17-Oct-2022.pdf
+Information not found in the provided documents.
+Source: guidelines-Pre-matric-17-Oct-2022.pdf, Page: 9",0.0,False,0.0,False,,,retrieval,model_said_not_found,False,True,,False,0.687,7.25
+Can I avail advance amount from Ministry for Visa fee and tuition fee?,"No, Ministry will not release any payment directly to students. After joining the course in the university, the University will send bills/vouchers to the respective Indian Mission. Indian Mission will release the payment and claim from the Ministry on reimbursement basis.",Information not found in the provided documents.,0.0,False,0.0,False,,,retrieval,model_said_not_found,False,True,,False,0.642,5.82
+"If I extend the course beyond course duration, what is the procedure?","Extension of stay prescribed duration for level of course is allowed, on recommendation of the University, without financial assistance of any kind except the air passage to return to India, if the candidate decides to come back to India on completion of the course.","DEPDGuidelines_1.pdf
+1. The extension of stay beyond the prescribed period for levels of courses may be considered without financial assistance of any kind, except for the air passage to return to India.
+2. This requires the recommendation of the competent authority in the educational institution/university as well as the Indian Mission abroad, certifying that the overstay for a specified period is absolutely essential for facilitating the candidate to complete the course.
+3. The final decision rests with the Department of Empowerment of Persons with Disabilities.
+4. Extension of stay abroad beyond the completion of the course or the duration of the scholarship is allowed without financial support or a return ticket to India.
+Source: DEPDGuidelines_1.pdf, Page: 21
+
+Information not found in the provided documents for the other schemes.",0.845,True,0.0,False,,,ok,,False,False,True,False,0.646,6.82
+/s there any ceiling in Institute wise and stream wise number of slots for Top Class Institutes? ‘,There is no ceiling in Institution wise and stream wise number of slots for the Top-Class institution,Information not found in the provided documents.,0.0,False,0.0,False,,,retrieval,model_said_not_found,False,True,,False,0.679,4.75
+How can | apply online for scholarship? ‘,"In order to apply online, please visit the website though URL www scholarships gov.in","Document: RevisedGuidelinesNOS07102022.pdf
+1. Applications are invited online through the National Overseas Scholarship Portal (NOSP) developed by the Ministry at overseas.tribal.gov.in.
+2. Before filling the application form online, candidates must register themselves on the NOSP and on DigiLocker.
+3. Aadhaar is mandatory for registration on the portal, and applicants must upload documents through DigiLocker.
+Source: RevisedGuidelinesNOS07102022.pdf, Page: 7
+
+Document: NSP_ORApplicationUsermanul_V2.2.pdf
+1. Access the National Scholarship Portal (NSP) using the provided link and select the Students option.
+2. Click on Login provided under Apply For Scholarship and log in using Login with Aadhaar, Login with APAAR, or Login with OTR.
+3. For a Fresh Application, browse the NSP Application Portal URL and log in using your credentials.
+4. Navigate to the Basic Information section and provide the required details in General Information, Academic Details, and Application Specific Details.
+5. After submitting the Basic Information, go to the Apply Fresh menu, carefully read the guidelines, accept the terms by clicking on the checkboxes, and click on continue.
+Source: NSP_ORApplicationUsermanul_V2.2.pdf, Page: 1
+
+Document: MORB_GL.pdf
+1. Online submission of the application form can be done through http://www.scholarships.gov.in/ at any internet access point, and no other mode of submission will be entertained.
+2. Applicants must check that all details provided are correct before final submission, as there is no provision to edit details thereafter.
+3. Titles or labels marked as a red star are compulsory in the application.
+Source: MORB_GL.pdf, Page: 14
+
+Document: GuidelinesFellowshipandScholarship2022.pdf
+1. Students after taking admission for various courses in the notified Universities or Institutes will submit the application online through the National Scholarship Portal at www.scholarships.gov.in/.
+Source: GuidelinesFellowshipandScholarship2022.pdf, Page: 19
+
+Document: tribalfellowshipguideline.pdf
+1. Students after taking admission for various courses in the notified Universities or Institutes will submit the application online through the National Scholarship Portal at www.scholarships.gov.in/.
+Source: tribalfellowshipguideline.pdf, Page: 6",0.719,True,0.0,False,,,ok,,False,False,True,False,0.72,8.95
+What is the last date for submitting applications online? ‘,"Opening and closing dates of portal has been decided by DBT Mission and same 's available on National ScholarshipsPortal. Also,dates are available on MoTA Website and Ministry also communicated the same with the Institutes and States,","Document: NEC_1234_F.pdf
+Closure dates for acceptance of NEC Merit scholarship applications are available in National Scholarships Portal.
+Source: NEC_1234_F.pdf, Page: 2
+
+Document: guidelines-Pre-matric-17-Oct-2022.pdf
+The applicant should submit/upload the completed application to the prescribed authority before the last date prescribed for receipt of applications, with the suggested timeline for closing of the portal for fresh and renewal applications being 31st July.
+Source: guidelines-Pre-matric-17-Oct-2022.pdf, Page: 8
+
+Document: GuidelinesFellowshipandScholarship2022.pdf
+The portal will usually open on July 1 and close on September 30 in the academic year, though these dates may change depending on prevailing circumstances.
+Source: GuidelinesFellowshipandScholarship2022.pdf, Page: 8
+
+Document: file_63.pdf
+The closing date of application registration by students for fresh and renewal under the PM-YASASVI Top Class Education in Colleges scheme is 31 August 2026.
+Source: file_63.pdf, Page: 1",0.619,True,0.0,False,,,ok,,False,False,True,False,0.629,7.85
+How to submit the online application? Should | need the user id and password to apply for scholarship? ‘,"Applying procedures for Scholarship Schemes for both Fresh and Renewal are given below. Fresh Students (students who have not received the scholarship earlier from the Ministry irrespective of the course year i.e. 1,2,3,4,5): Students applying for ‘scholarship for the first time (Fresh Students) need to ""Register"" on the portal as, fresh applicant by providing accurate and authenticated information as printed on their documents in the ""Student Registration Form”. Student shave to Click on the ‘option ‘New Registration’, on the home page of National Scholarships Portal. Fill up the application as per the instructions given by the system then click on save button ‘After saving, student will get a “Temporary ID. The system will instruct the applicant to submit histher Temporary ID and date of birth to fil subsequent details. Once registration is complete on click of submit button, @ Permanent Registration 1D is, generated which can be used for Renewal and tracking the status of application li, Renewal Students: They have to click on login button available on the home page of [ational Scholarships Portal. Student have to cick on the current year ie. 2020-21 to ‘apply as Renewal student to avail the scholarship for 2020-21, Then student wil ‘apply with theic Application Id and Date of Birth which they registered application id of previous year FAQ's for Students for NSP 2020-21: National i i jigher Education of ST Students (earlier known as Top Class Scholarship Scheme)","C:\Users\dprag\OneDrive\Desktop\RAG1\government_rag_modular\data\New folder7\NSP_ORApplicationUsermanul_V2.2.pdf
+1. To apply for a Fresh Application, follow these steps:
+- Browse the NSP Application Portal URL and log in using your credentials.
+- Navigate to the Basic Information section.
+- Provide the required details in General Information, Academic Details, and Application Specific Details.
+- After submitting the Basic Information, go to the Apply Fresh menu.
+- Carefully read the guidelines, accept the terms by clicking on the checkboxes, and click on continue.
+Source: NSP_ORApplicationUsermanul_V2.2.pdf, Page: 1
+
+C:\Users\dprag\OneDrive\Desktop\RAG1\government_rag_modular\data\New folder8h\MORB_GL.pdf
+1. Students can register and submit their application online from anywhere at anytime.
+2. Students view or track the status of their own application with a User ID and Password generated by the system.
+Source: MORB_GL.pdf, Page: 13",0.734,True,0.0,False,,,ok,,False,False,True,False,0.716,4.58
+"/ am 2 Renewal student but while applying in NSP under Renewal category, | have clicked on “Withdraw your application button” button by mistake then how can | again apply for Renewal? ‘","in this case you cant apply again in Renewal category with the same application id. You have to again register yourself and fil your application under Fresh category. Also, under course year option available in the application form. please mention your present course year and upload your Semester Mark sheet of the course in which you are presently studying and enter your semester marks in NSP application form","Document: NSP_ORApplicationUsermanul_V2.2.pdf
+1. You can revoke your Renewal application again after withdrawing by going to the My Applications page and clicking on the Proceed button, then selecting the Revoke Application form from the menu.
+2. Please note that you cannot revoke your scholarship application if you fail the following condition: you already have an active merit based scholarship application and want to revoke another merit based scholarship application.
+Source: NSP_ORApplicationUsermanul_V2.2.pdf, Page: 2",0.719,True,0.0,False,,,ok,,False,False,True,False,0.744,7.88
+"1 have been received scholarship from this Ministry in 2018-19 but for some reason / have not applied in 2019-20, Now while applying in 2020-21 in NSP under Renewal category, | am not able to apply with the previous application id. What is the reason for this? ‘",If you have not applied in 2019-20 then you can't apply in NSP in 2020-21 with the previous application id. Now you have to again fil your application under Fresh category and under course year mention your present course year and upload your Semester Marksheet of the course in which you are presently studying and enter your semester marks in NSP application form,Information not found in the provided documents.,0.0,False,0.0,False,,,retrieval,model_said_not_found,False,True,,False,0.702,5.65
+Which fields in the application form are mandatory? ‘,"Fields provided with red asterisk (°) mark are mandatory fields,","C:\Users\dprag\OneDrive\Desktop\RAG1\government_rag_modular\data\New folder7\NEC_1234_F.pdf
+1. Fields provided with a red asterisk mark are mandatory fields.
+Source: NEC_1234_F.pdf, Page: 3
+
+C:\Users\dprag\OneDrive\Desktop\RAG1\government_rag_modular\data\New folder7\NSP_SOP.pdf
+1. Fields marked as a symbol are mandatory.
+Source: NSP_SOP.pdf, Page: 6",0.757,True,0.0,False,,,ok,,False,False,False,False,0.635,7.0
+Do / have to fill up the online application in one sitting? ‘,"No. You can fil up the online application in as many sitings as you wish, until you are satisfied that you have entered all desirable fies correctly. The software provides facility to save your application at every stage","C:\Users\dprag\OneDrive\Desktop\RAG1\government_rag_modular\data\New folder7\NEC_1234_F.pdf
+1. No. You can fill up the online application in as many sittings as you wish, until you are satisfied that you have entered all desirable fields correctly. The software provides facility to save your application at every stage.
+Source: NEC_1234_F.pdf, Page: 3",0.778,True,0.0,False,,,ok,,False,False,True,False,0.625,7.57
+Is there any permanent 1D? How will it be communicated to me? ‘,"Yes, an Application ID (Permanent 1D) will be provided to the candidate once histter Registration is done. It will be conveyed to candidates through SMS and e-mail ‘Students should memorize their Application 10 as it wil be required while applying for Freshirenewal scholarship.",Information not found in the provided documents.,0.0,False,0.0,False,,,retrieval,model_said_not_found,False,True,,False,0.546,2.74
+How to / check the status of my application?,"t3: Student can check the status of Online Application by submitting his/her Permanent id and Date of Birth and open the link ""Check yourStatus""","DOCUMENT: NEC_1234_F.pdf
+1. Students can check the status of their online application by logging in using their permanent ID and date of birth, then opening the link titled Check your Status.
+Source: NEC_1234_F.pdf, Page: 5
+
+For all other documents, the provided text does not contain information on how to check the status of an application.
+Information not found in the provided documents.",0.0,False,0.0,False,,,retrieval,model_said_not_found,False,True,,False,0.714,2.24
+What is UID number/Aadhaar Number? ‘,"s 14: UID number otherwise known as ‘Aadhaar’ number is Unique Identification ‘Number given by Unique Identfication Authorty of India (UIDAN). Aadhaar is unique 12-digit ‘number assigned after de-dupiication of biometrics. FAQ's for Students for NSP 2020-21: Students (ear r known as Top Class Scholarship Scheme) application id then you have to upload previous year/semester course Marksheet (in which you are presently studying) ix. Bonafide Student ofthe Institution . Below documents are optional to be upload in your application form but mandatory if you falls under below categories: | PVTG (Particularly Vulnerable Tribe Group) Certificate(this document is Mandatory if you falls under this category and you are applying as a Fresh ‘student and you have not received scholarship earlier from this Ministry) If you ‘comes under PVTG category (as per the PVTG list available on Ministy of Tribal ‘Affaics Website) then you have to upload this document mandatory ji, BPL (Below Poverty Line) Certificate (this document is Mandatory if you falls under this category and you are applying as a Fresh student and you have not received scholarship earlier from this Ministry): If you comes under BPL category then you have to upload this document mandatory issued by Competent Authority i, Computer Purchase Receipts if applicable: Not mandatory 'v. Books and Stationery Receipts: Not mandatory ¥. _Divanygian (Disability) Certificate (this document is Mandatory if you falls ‘under this category and you are applying as a Fresh student and you hay received scholarship earlier from this Ministry): Disabilty Certificate issued by the Competent Authority Designated by District Medical Officer / Civil Surgeon of the Govt. Hospital","C:\Users\dprag\OneDrive\Desktop\RAG1\government_rag_modular\data\New folder7\NEC_1234_F.pdf
+UID number, otherwise known as Aadhaar number, is a Unique Identification Number given by the Unique Identification Authority of India (UIDAI). It is a unique 12-digit number assigned to residents of India after de-duplication of biometrics.
+Source: NEC_1234_F.pdf, Page: 4",0.753,True,0.0,False,,,ok,,False,False,True,False,0.788,6.93
+"If| am living outside the hostel premises or in rented accommodation, will am | eligible to receiving Living Expenses / Hostel Charges? ‘","Living Expenses / Hostel Charges will be reimbursed to the students who Tesides in the hostel premises means Hosteller’s and not for Oay scholars who reside ‘outside the hostel o in rented accommodation,","DEPDGuidelines_1.pdf
+1. In case hostel accommodation is provided to the scholars by their institutions, the scholar is eligible to draw only the hostel fee excluding mess, electricity, water charges etc.
+2. In case hostel accommodation offered by the university or institution is refused by the candidate, he or she will forfeit his or her claim of HRA.
+3. In case of non-availability of hostel accommodation, the scholar may be provided with single accommodation by the host institution, and the rent paid by the scholar on an actual basis shall be reimbursed, subject to the ceiling of HRA as per Government of India norms.
+4. If the scholar makes his or her own arrangements of accommodation, he or she shall be entitled to draw HRA as per ceiling and categorization of cities by the Government of India.
+Source: DEPDGuidelines_1.pdf, Page: 16",0.661,True,0.0,False,,,ok,,False,False,True,False,0.678,4.37
+What is the selection procedure of generation of Merit List of 1000 students every year? ‘,"The total number of fresh Scholarship each year is 1000. There is no ceiling in Institution wise and stream wise number of slots for the Top-Class Institution. In case the number of candidates exceeds the number of available awards, the MoTA wil select the ‘candidates based on a criterion of marks obtained in the last passed examination, Slots will bbe provided to sub-categories in the following priory Peorty [category = I r2on win Daabily (PWO)WO 5% of Total Sots a fo sits br. bo sot kb Fewaue 0% of Total Sots",Information not found in the provided documents.,0.0,False,0.0,False,,,retrieval,model_said_not_found,False,True,,False,0.594,2.38
+Will get scholarship even if my name is not in the merit list ? ‘,No you are not eligible to receive scholarship if you are not selected in the Merit List. Only students who are selected in 1000 Merit List of Fresh students every year are Cigible to receive the scholarship.,"C:\Users\dprag\OneDrive\Desktop\RAG1\government_rag_modular\data\New folder7\PM_USPY(SSSJKL)SchemeSpecifications.pdf
+Information not found in the provided documents.
+Source: PM_USPY(SSSJKL)SchemeSpecifications.pdf, Page: 4
+
+C:\Users\dprag\OneDrive\Desktop\RAG1\government_rag_modular\data\New folder7\RevisedGuidelinesNOS07102022.pdf
+Information not found in the provided documents.
+Source: RevisedGuidelinesNOS07102022.pdf, Page: 8
+
+C:\Users\dprag\OneDrive\Desktop\RAG1\government_rag_modular\data\New folder7\NEC_1234_F.pdf
+Information not found in the provided documents.
+Source: NEC_1234_F.pdf, Page: 1
+
+C:\Users\dprag\OneDrive\Desktop\RAG1\government_rag_modular\data\New folder2\NEC_1234_G.pdf
+Information not found in the provided documents.
+Source: NEC_1234_G.pdf, Page: 9",0.0,False,0.0,False,,,retrieval,model_said_not_found,False,True,,False,0.659,2.46
+"| have not selected in 1000 Merit List of Fresh student and my name is not in the list of provisionally selected candidates for the academic 2019-20. So, please can you inform me do I have chances to be select in next academic year 2020. 2021 if will apply ? ‘",Your name will come in 2020-21 Merit List of 1000 Fresh students or not «depends upon the criteria of Merit List generation decided by the competent authority.,Information not found in the provided documents.,0.0,False,0.0,False,,,retrieval,model_said_not_found,False,True,,False,0.659,4.82
+| have received the computer charges earlier from the Ministry am 1 eligible to receive the same in next year if have lost my computer? ‘,Computer charges will be given to the student once during the tenure of the -_ py FAQ's for Students for NSP 202 National Fellowship and Scholarship for Higher Education of ST ‘Students (earlier known as Top Class Scholarship Scheme),Information not found in the provided documents.,0.0,False,0.0,False,,,retrieval,model_said_not_found,False,True,,False,0.57,2.31
+If we are facing any technical issue in filling the application form in NSP ‘or any other issue where we can contact? ‘,"Students who are receiving scholarship from this Ministry can. send the {grievance of yours in the Grievance portal of Ministry of Tribal Affairs (vibal.nicin/grievance) {and steps to register on grievance portal is as under ‘Stop -4: - Open URL of Grievance. URL: -htps:nribal nc in/Grievancer FAQ's for Students for NSP 2020-21: National Fellowship and Scholarship for Higher Education of ST ‘Students (earlier known as Top Class Scholarship Scheme) : - Registor Yourself with proper information {for now user. + Click “Register Yourself” button to get registration. It will open Registration Form for Student ‘+ On Registration Form, select“Student” and “Top Class” option and fil all required Information Note: - Your given email id is your USER ID for Login in Grievance. FAQ's for Students for NSP 2020-21: National Fellowship and Scholarship for Higher Education of ST ‘Students (earlier known as Top Class Scholarship Scheme) <= + After successful registration, you can login with your given EMAIL ID and PASSWORD. + Once you get login, you can send your Query/ Grievance and you will see the response of Query’ Grievance also after login. we","NEC_1234_G.pdf
+Information not found in the provided documents.
+Source: NEC_1234_G.pdf, Page: 2
+
+NSP_SOP.pdf
+Help Desk for NSP is maintained by NIC, with support from external call center agency. The primary role of the helpdesk is to provide first level assistance to the users of NSP, which includes assisting students/applicants in filling the registration and application forms and providing technical support.
+Source: NSP_SOP.pdf, Page: 16
+
+NEC_1234_F.pdf
+Information not found in the provided documents.
+Source: NEC_1234_F.pdf, Page: 5
+
+AICTE_3038_F.pdf
+You can avail Helpdesk Service on helpdesk@nsp.gov.in for any queries.
+Source: AICTE_3038_F.pdf, Page: 2
+
+AICTE_3039_F.pdf
+You can avail Helpdesk Service on helpdesk@nsp.gov.in for any queries.
+Source: AICTE_3039_F.pdf, Page: 2",0.0,False,0.0,False,,,retrieval,model_said_not_found,False,True,,False,0.668,2.84
+Can a student apply for a scholarship if they have a backlog in one or more subjects?,Scholarship eligibility for students with backlogs depends on the specific scholarship scheme's academic performance and renewal conditions. Students should check the official scheme guidelines.,"DOCUMENT: C:\Users\dprag\OneDrive\Desktop\RAG1\government_rag_modular\data\New folder2\NEC_1234_G.pdf
+1. To draw scholarship under the renewal category, the beneficiary must pass in the particular year or be promoted to the next semester or year.
+2. If a student could not pass all papers but is promoted to the next year as per extant rules, they may be considered for renewal of scholarships subject to the condition that no additional backlog from previous years is pending against their name.
+3. If the student is not promoted to the next year or has backlog papers pending against their name for more than one year, they shall not receive further scholarship for the remaining course period.
+Source: NEC_1234_G.pdf, Page: 4
+
+DOCUMENT: C:\Users\dprag\OneDrive\Desktop\RAG1\government_rag_modular\data\New folder3h\Labour_Ministry_Guidelines_of_scholarhsips schemes.pdf
+Information not found in the provided documents.
+Source: Labour_Ministry_Guidelines_of_scholarhsips schemes.pdf, Page: 2
+
+DOCUMENT: C:\Users\dprag\OneDrive\Desktop\RAG1\government_rag_modular\data\New folder3h\DEPDGuidelines_1.pdf
+Information not found in the provided documents.
+Source: DEPDGuidelines_1.pdf, Page: 7",0.0,False,0.0,False,,,retrieval,model_said_not_found,False,True,,False,0.673,2.73
+What should a student do if their scholarship application is marked as defective?,"The student should log in to the scholarship portal, read the defect remarks, correct the required information or documents, and resubmit the application within the specified deadline.",Information not found in the provided documents.,0.0,False,0.0,False,,,retrieval,unknown_source: 1. nsp_sop.pdf,False,True,,False,0.724,2.04
+Can a student edit their scholarship application after final submission?,"Editing options depend on the scholarship portal and the application's current status. If correction is allowed, the student should follow the portal's instructions or contact the institution's scholarship nodal officer.","C:\Users\dprag\OneDrive\Desktop\RAG1\government_rag_modular\data\New folder7\NEC_1234_F.pdf
+After final submission, your application will be forwarded to the next level and hereby cannot be edited. However, the software provides a facility at the level of the Institute and State to edit and correct limited information if mistakes are detected after forwarding the applications to the next level.
+Source: NEC_1234_F.pdf, Page: 3",0.62,True,0.0,False,,,ok,,False,False,True,False,0.656,3.99
+What happens if a student's bank account is closed after submitting a scholarship application?,The student should update their bank details through the permitted procedure on the scholarship portal and inform the relevant institution or scholarship authority. The student should ensure that the account is active and eligible to receive payments.,Information not found in the provided documents.,0.0,False,0.0,False,,,retrieval,model_said_not_found,False,True,,False,0.686,3.2
+Can a scholarship payment fail if the beneficiary's name differs between the bank account and the application?,A mismatch in the beneficiary's name or other bank details may cause payment verification problems. The student should ensure that the information provided in the application matches the official bank records and follow the portal's correction procedure.,"Guidelines_NATIONAL_SCHOLARSHIP_FOR_POSTGRADUATE_STUDIES_UGC_2324.pdf
+Even if a student is selected for a scholarship, the payment of the scholarship may not be generated due to a mismatch of the name of the student, bank account number, IFSC code, etc.
+Source: Guidelines_NATIONAL_SCHOLARSHIP_FOR_POSTGRADUATE_STUDIES_UGC_2324.pdf, Page: 4
+
+Guidelines_ISHAN UDAY_2324.pdf
+Even if a student is selected for a scholarship, the payment of the scholarship may not be generated due to a mismatch of the name of the student, bank account number, IFSC code, etc.
+Source: Guidelines_ISHAN UDAY_2324.pdf, Page: 4",0.716,True,0.0,False,,,ok,,False,False,True,False,0.695,5.93
+How can a student check whether their scholarship application has been verified by the institute?,"The student can log in to the relevant scholarship portal and check the application status. If the status is unclear or verification is pending, the student should contact the institution's scholarship nodal officer.",Information not found in the provided documents.,0.0,False,0.0,False,,,retrieval,model_said_not_found,False,True,,False,0.717,3.84
+What should a student do if the scholarship portal shows an incorrect course or institution?,The student should verify the institution and course details with their college and contact the scholarship nodal officer or portal helpdesk to understand the permitted correction process.,Information not found in the provided documents.,0.0,False,0.0,False,,,retrieval,model_said_not_found,False,True,,False,0.667,4.36
+Can a student receive scholarship benefits while studying through distance education?,Eligibility for students enrolled in distance education depends on the rules of the particular scholarship scheme. Students should consult the official scheme guidelines to confirm whether their course and mode of study are eligible.,"C:\Users\dprag\OneDrive\Desktop\RAG1\government_rag_modular\data\New folder3h\DEPDGuidelines_1.pdf
+1. Students who pursue their studies through correspondence courses are also eligible, and the term correspondence includes distance and continuing education.
+Source: DEPDGuidelines_1.pdf, Page: 8",0.683,True,0.0,False,,,ok,,False,False,True,False,0.67,5.73
+What should a student do if their scholarship application is rejected without a clear reason?,The student should check the rejection remarks on the scholarship portal and contact the institution's scholarship nodal officer or the relevant scholarship authority for clarification and information about any available grievance or appeal procedure.,Information not found in the provided documents.,0.0,False,0.0,False,,,retrieval,model_said_not_found,False,True,,False,0.714,2.23
+Is a student required to submit a new scholarship application every academic year?,The requirement depends on the scholarship scheme. Some schemes require a fresh application for initial registration and a renewal application for subsequent years. Students should follow the official renewal instructions for their scheme.,"DOCUMENT: C:\Users\dprag\OneDrive\Desktop\RAG1\government_rag_modular\data\New folder2\NEC_1234_G.pdf
+1. All existing and eligible beneficiaries of the scholarship are required to fill up the renewal form on NSP every year during their entire course period.
+Source: NEC_1234_G.pdf, Page: 10
+
+DOCUMENT: C:\Users\dprag\OneDrive\Desktop\RAG1\government_rag_modular\data\New folder7\NEC_1234_F.pdf
+1. All existing and eligible beneficiaries of the scholarship are required to fill up the renewal form on NSP every year during their entire course period.
+Source: NEC_1234_F.pdf, Page: 1",0.705,True,0.0,False,,,ok,,False,False,True,False,0.725,6.8
+What should a student do if their scholarship application remains pending after institute verification?,The student should check the current application status and contact the relevant scholarship authority or portal helpdesk. The student should keep the application ID and supporting documents available when raising a query.,Information not found in the provided documents.,0.0,False,0.0,False,,,retrieval,model_said_not_found,False,True,,False,0.687,3.13
+Can a student apply for a scholarship if their family income certificate has expired?,The validity requirements for an income certificate depend on the scholarship scheme and the applicable rules. The student should check the current guidelines and obtain a valid certificate if required.,Information not found in the provided documents.,0.0,False,0.0,False,,,retrieval,model_said_not_found,False,True,,False,0.714,2.23
+How can a student raise a grievance if the scholarship amount has not been credited to their bank account?,"The student should first check the application and payment status on the relevant scholarship portal. If the payment remains unresolved, they can contact the scholarship authority or portal helpdesk and submit a grievance with the application ID and relevant payment details.",Information not found in the provided documents.,0.0,False,0.0,False,,,retrieval,model_said_not_found,False,True,,False,0.652,2.33

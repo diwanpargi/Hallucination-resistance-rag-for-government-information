@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Govt Scholarship Assistant</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <!-- top bar -->
+  <header class="navbar">
+    <div class="logo">🎓 Scholarship Assistant</div>
+    <span class="tag">Answers only from official PDFs</span>
+  </header>
+
+  <!-- intro -->
+  <section class="hero">
+    <h1>Ask about government scholarships</h1>
+    <p>The answer comes only from the documents. If the information is not there, we will tell you instead of guessing.</p>
+  </section>
+
+  <main class="container">
+
+    <!-- question box -->
+    <div class="card">
+      <textarea id="question" rows="3" placeholder="Type your question here..."></textarea>
+      <button id="askBtn">Get answer</button>
+
+      <p class="small">Try an example:</p>
+      <div id="examples" class="chips"></div>
+    </div>
+
+    <!-- loading message -->
+    <p id="loading" class="loading hidden">Searching the documents...</p>
+
+    <!-- error message -->
+    <div id="error" class="card error hidden"></div>
+
+    <!-- answer -->
+    <div id="answerCard" class="card hidden">
+      <h2>Answer</h2>
+      <p id="score" class="small"></p>
+      <div id="answer" class="answer"></div>
+    </div>
+
+    <!-- sources -->
+    <div id="sourcesCard" class="card hidden">
+      <h2>Sources</h2>
+      <div id="sources"></div>
+    </div>
+
+  </main>
+
+ 
+
+  <script src="script.js"></script>
+</body>
+</html>
