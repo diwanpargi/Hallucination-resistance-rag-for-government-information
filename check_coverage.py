@@ -1,11 +1,4 @@
-# check_coverage.py
-# Run this BEFORE the evaluation:   python check_coverage.py
-#
-# For every correct answer in the JSON it searches the whole collection and
-# checks whether some chunk is similar to it (source file names are NOT used).
-# The result is an upper limit: if only 60% of the answers exist in the
-# collection, no retrieval fix can give more than ~60% accuracy.
-
+ 
 import json
 import sys
 
