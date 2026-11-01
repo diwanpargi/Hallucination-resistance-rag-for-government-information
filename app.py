@@ -1,4 +1,4 @@
-# app.py
+ 
  
 import os
 import streamlit as st
@@ -7,7 +7,7 @@ st.set_page_config(page_title="Govt Scholarship Assistant", page_icon="🎓")
 st.title("🎓 Government Scholarship Assistant")
 st.write("Type your question below. The answer comes only from the PDF documents. If it is not there, the app will say so.")
 
-# ---------- Step 1: keys ----------
+#  Step 1: keys 
  
 KEY_NAMES = ["QDRANT_URL", "QDRANT_API_KEY", "GEMINI_API_KEY"]
 
@@ -29,7 +29,7 @@ from generation import get_gemini_client, NOT_FOUND
 from rag_pipeline import answer_question
 
 
-# ---------- Step 2: load model, Qdrant and Gemini only once ----------
+# tep 2: load model, Qdrant and Gemini only once  
 @st.cache_resource
 def load_everything():
     model = load_embed_model()
@@ -41,13 +41,13 @@ def load_everything():
 with st.spinner("Loading models (the first time takes a while)..."):
     model, client, gemini = load_everything()
 
-# ---------- Step 3: settings ----------
+#  Step 3: settings 
 with st.sidebar:
     st.header("Settings")
     top_k = st.slider("Number of chunks to fetch", 1, 10, config.TOP_K)
     threshold = st.slider("Minimum score", 0.0, 1.0, config.SCORE_THRESHOLD, 0.05)
 
-# ---------- Step 4: question and answer ----------
+#   Step 4: question and answer  
 question = st.text_input("Your question")
 
 if st.button("Get answer") and question.strip():
